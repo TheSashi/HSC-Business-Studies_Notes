@@ -13,7 +13,9 @@ tags:
   - revision
 ---
 
-# Marketing — Exam Revision Notes
+# Marketing — HSC Final Notes
+
+> **Module 7: Marketing** | Complete revision document for the HSC exam.
 
 ---
 
@@ -21,12 +23,12 @@ tags:
 
 **Definition**: Marketing is the total system of interacting activities designed to plan, promote, price and distribute products to present and potential customers.
 
-### Strategic Role
+### 1.1 Strategic Role
 - Translates the business goal of **profit maximisation** into reality
 - Develops a **marketing plan** with actions and strategies to attain greater sales
 - Modern emphasis: **customer-oriented marketing** — viewing the business through the customer's eyes
 
-### Interdependence with Other Functions
+### 1.2 Interdependence with Other Functions
 
 | Function | Relationship with Marketing |
 |---|---|
@@ -36,9 +38,7 @@ tags:
 
 > **Case Study — BYD**: Operations produces the "Blade Battery" → marketing promotes vehicle safety/reliability. Marketing provides customer feedback → operations modifies cars. Profits are reinvested into factories and research, creating a cycle of continuous improvement.
 
----
-
-## 2. Marketing Approaches
+### 1.3 Marketing Approaches
 
 | Approach | Core Idea | Focus |
 |---|---|---|
@@ -47,16 +47,16 @@ tags:
 | **Marketing** | Find what customers want, then satisfy that need | Customer orientation, market research, integrated strategies |
 | **Societal** | Balance company profits with societal well-being | Environmental and social responsibility |
 
-### Customer Orientation
+### 1.4 Customer Orientation
 - Customer relationship **begins with the sale** (doesn't end there)
 - After-sale service, warranties, fulfilling needs and wants
 - Example: free car servicing, longer warranty periods
 
-### Relationship Marketing
+### 1.5 Relationship Marketing
 - Core: **customer loyalty** → repeat sales
 - Achieved through reward programs, customer care, after-sales service
 
-### Types of Markets
+### 1.6 Types of Markets
 
 | Type | Definition | Example |
 |---|---|---|
@@ -68,9 +68,11 @@ tags:
 
 ---
 
-## 3. Influences on Customer Choice
+## 2. Influences of Marketing
 
-### Psychological (within the individual)
+### 2.1 Factors Influencing Customer Choice
+
+#### Psychological (within the individual)
 
 | Factor | Key Point |
 |---|---|
@@ -83,7 +85,7 @@ tags:
 
 > **Apple**: iPhone 5c (colours) failed — quality expectations (psychological) were stronger than colour preference. iPhone 5s (metallic colours) succeeded — associated with quality/innovation.
 
-### Sociocultural (other people and groups)
+#### Sociocultural (other people and groups)
 
 | Factor | Key Point |
 |---|---|
@@ -94,7 +96,7 @@ tags:
 
 > **Apple**: Social media/gaming/streaming popularity → marketing promotes camera, screen, processing specs.
 
-### Economic
+#### Economic
 
 | Condition | Effect | Marketing Response |
 |---|---|---|
@@ -103,19 +105,16 @@ tags:
 
 > **Apple**: GFC → declining iPhone sales → developed low-cost iPhone 5c. COVID-19 → released iPhone SE and "Mini" versions for price-conscious customers.
 
-### Government
-
+#### Government
 - **Fiscal policy**: Government budget (taxes, spending) — expands or contracts economic activity
 - **Monetary policy**: RBA adjusts interest rates → affects consumer spending
 - **Regulations**: CCA 2010, Fair Trading Act 1987 — breaches = financial penalties
 
 > **Apple**: iPhone 6 launch delayed in China (privacy concerns). India regulations prevented store expansion for years, eased in 2020.
 
----
+### 2.2 Ethical Influences
 
-## 4. Ethical Influences
-
-### Unethical Practices
+#### Unethical Practices
 
 | Practice | Definition |
 |---|---|
@@ -125,22 +124,20 @@ tags:
 | **Invasion of privacy** | Tracking web users for targeted advertising |
 | **SUGGING** | Selling Under the Guise of a Survey — sales disguised as market research |
 
-### Other Ethical Issues
+#### Other Ethical Issues
 - **Good taste**: Subjective, depends on community sensitivities
 - **Health-damaging products**: Self-regulatory codes (children's advertising, alcohol, smoking)
 - **Fair competition**: False promises, exaggerated descriptions, high-pressure selling
 
----
+### 2.3 Consumer Law (Legal Influences)
 
-## 5. Consumer Law (Legal Influences)
-
-### Competition and Consumer Act 2010 — Two Purposes
+#### Competition and Consumer Act 2010 — Two Purposes
 1. Protect consumers from misleading practices
 2. Regulate trade practices that restrict competition
 
 **Enforced by**: ACCC and ASIC
 
-### Deceptive & Misleading Conduct
+#### Deceptive & Misleading Conduct
 
 | Tactic | Example |
 |---|---|
@@ -151,7 +148,7 @@ tags:
 | Fake special offers | "Limited time" when offer is permanent |
 | Bait and switch | Advertise cheap items, sell expensive ones when they run out |
 
-### Consumer Rights
+#### Consumer Rights
 
 | Right | Details |
 |---|---|
@@ -159,10 +156,10 @@ tags:
 | **Warranties** | Promise to repair/replace faulty products — also a marketing tool |
 | **Refunds** | Legally required if: faulty, doesn't match description, fails to work. NOT required if: customer changes mind, finds cheaper option, damages after purchase |
 
-### Price Discrimination
+#### Price Discrimination
 - Different prices in different markets — **prohibited** if it substantially reduces competition
 
-### ACCC Case Studies
+#### ACCC Case Studies
 
 **Apple:**
 - iPhone/iPad misrepresentations — **$9 million penalty**
@@ -175,7 +172,9 @@ tags:
 
 ---
 
-## 6. SWOT Analysis
+## 3. Marketing Processes
+
+### 3.1 SWOT Analysis
 
 **Situational analysis**: Most crucial step — management must understand current position and where heading. Must be based on **meaningful market research**.
 
@@ -186,7 +185,7 @@ tags:
 
 > **Apple SWOT**: Strength = brand reputation | Weakness = high price | Opportunity = AI partnerships | Threat = Asian competitors (Xiaomi, OPPO)
 
-### Product Life Cycle
+### 3.2 Product Life Cycle
 
 | Stage | Strategy |
 |---|---|
@@ -197,18 +196,16 @@ tags:
 
 > CD = decline | PCs = maturity | EVs = growth | Tablets = maturity | Driverless cars = introduction
 
----
-
-## 7. Market Research
+### 3.3 Market Research
 
 **Definition**: Systematic collection, recording and analysis of information concerning a specific marketing problem.
 
-### Steps
+#### Steps
 1. Determine information needs
 2. Collect data (primary & secondary)
 3. Analyse and interpret data
 
-### Primary vs Secondary
+#### Primary vs Secondary
 
 | | Primary | Secondary |
 |---|---|---|
@@ -217,7 +214,7 @@ tags:
 | **Pros** | Specific, current, controlled | Cheap, available, broader context |
 | **Cons** | Expensive, time-consuming | May be outdated, not specific enough |
 
-### What Market Research Reveals
+#### What Market Research Reveals
 - Consumer needs/wants and preferences
 - Target market income → assists **pricing** decisions
 - Feedback for product/service improvements
@@ -226,13 +223,11 @@ tags:
 
 > **Apple**: Emails post-purchase feedback surveys. Monthly country-by-country surveys reveal: purchase drivers vs competitors, most-used features, demographics, satisfaction levels. Drives continuous improvement and competitive differentiation.
 
----
-
-## 8. Marketing Objectives
+### 3.4 Marketing Objectives
 
 **Definition**: Realistic and measurable goals achieved through the marketing plan. Must be aligned to business goals but more **customer oriented**.
 
-### Three Common Objectives
+#### Three Common Objectives
 
 | Objective | Strategy |
 |---|---|
@@ -240,21 +235,18 @@ tags:
 | **Expand product mix** | New product development, product line extensions |
 | **Maximise customer service** | Feedback forms, after-sales service, staff training |
 
-### Market Share Formula
-
+#### Market Share Formula
 ```
 Market Share (%) = (Company Sales / Total Industry Sales) × 100
 ```
 
----
-
-## 9. Target Markets & Segmentation
+### 3.5 Target Markets & Segmentation
 
 **Target market**: Group of present and potential customers a business intends to sell to.
 - **Primary**: Most resources directed here
 - **Secondary**: Smaller, less important segment
 
-### Segmentation Bases
+#### Segmentation Bases
 
 | Base | Criteria | Apple Example |
 |---|---|---|
@@ -263,20 +255,48 @@ Market Share (%) = (Company Sales / Total Industry Sales) × 100
 | **Psychographic** | Lifestyle, values, attitudes | Innovation-seekers, quality-focused, early adopters, brand-loyal |
 | **Behavioural** | Buying patterns, brand loyalty, usage | Apple ecosystem loyalty, repeat purchasers |
 
-### Apple's Product-Segment Targets
+#### Apple's Product-Segment Targets
 - **iPhone**: Broad audience, young adults, professionals, tech enthusiasts
 - **iPad**: Creative professionals, students
 - **Mac**: Developers, creative professionals
 - **Apple Watch**: Fitness enthusiasts, professionals
 
+### 3.6 Monitoring & Controlling
+
+#### Definitions
+- **Monitoring**: Checking and observing actual progress
+- **Controlling**: Comparing planned vs actual performance, taking **corrective action**
+- **Implementation**: Putting strategies into operation (how, where, when)
+
+#### Financial Forecasts
+- **Cost estimate** + **Revenue estimate**
+- Compare sales potential and revenue forecasts with anticipated expenditures
+- Easier to forecast **costs** than revenue (costs are more controllable)
+
+#### Key Performance Indicators (KPIs)
+
+| KPI | Purpose |
+|---|---|
+| **Sales analysis** | Evaluate current performance and strategy effectiveness |
+| **Market share analysis** | Compare performance against competitors |
+| **Marketing profitability analysis** | Break down costs into specific marketing activities |
+
+#### Revising the Marketing Strategy
+If objectives not met, changes include:
+1. **Modify the 4Ps** (marketing mix adjustments)
+2. **New product development** (add products)
+3. **Product deletion** (remove underperforming products)
+
 ---
 
-## 10. Marketing Mix — 4Ps
+## 4. Marketing Strategies
 
-### Product
+### 4.1 Marketing Mix — 4Ps
+
+#### Product
 Decisions about: quality, packaging/labelling, design, brand name, guarantee. Strategies change with product life cycle stage.
 
-### Price
+#### Price
 
 | Strategy | When Used |
 |---|---|
@@ -290,10 +310,10 @@ Decisions about: quality, packaging/labelling, design, brand name, guarantee. St
 
 **Apple pricing:** Price skimming at launches ($2,199 Pro Max), prestige pricing reinforces luxury image, selective price reductions on older models.
 
-### Promotion
+#### Promotion
 Methods: advertising, personal selling, sales promotion, publicity/PR, direct marketing, digital/social media
 
-### Place (Distribution)
+#### Place (Distribution)
 
 | Level | Path |
 |---|---|
@@ -304,37 +324,7 @@ Methods: advertising, personal selling, sales promotion, publicity/PR, direct ma
 
 Distribution intensity: Intensive (max outlets) → Selective (chosen outlets) → Exclusive (very few)
 
----
-
-## 11. Monitoring & Controlling
-
-### Definitions
-- **Monitoring**: Checking and observing actual progress
-- **Controlling**: Comparing planned vs actual performance, taking **corrective action**
-- **Implementation**: Putting strategies into operation (how, where, when)
-
-### Financial Forecasts
-- **Cost estimate** + **Revenue estimate**
-- Compare sales potential and revenue forecasts with anticipated expenditures
-- Easier to forecast **costs** than revenue (costs are more controllable)
-
-### Key Performance Indicators (KPIs)
-
-| KPI | Purpose |
-|---|---|
-| **Sales analysis** | Evaluate current performance and strategy effectiveness |
-| **Market share analysis** | Compare performance against competitors |
-| **Marketing profitability analysis** | Break down costs into specific marketing activities |
-
-### Revising the Marketing Strategy
-If objectives not met, changes include:
-1. **Modify the 4Ps** (marketing mix adjustments)
-2. **New product development** (add products)
-3. **Product deletion** (remove underperforming products)
-
----
-
-## 12. Extended Marketing Mix — People, Processes, Physical Evidence
+### 4.2 Extended Marketing Mix — People, Processes, Physical Evidence
 
 The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which are intangible, inseparable, variable, and perishable.
 
@@ -346,9 +336,37 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 
 > **Apple**: The extra 3 Ps strengthen premium brand image, increase customer satisfaction and loyalty, and maintain competitive advantage.
 
+### 4.3 Section IV Essay Structures
+
+#### Assess/Evaluate/Explain the Importance of (Judgement-Based)
+
+**Introduction**: Start with judgement sentence → state what you're evaluating (use syllabus dot points) → include all case studies.
+
+| Body Paragraph | Purpose |
+|---|---|
+| **Paragraph 1** | Answer the question — judgement with brief overview. Define key concepts. Include case study. |
+| **Paragraph 2** | **Advantages** — prove they are advantages by linking to a topic-specific goal. Use stats. |
+| **Paragraph 3** | **Disadvantages** — prove they are disadvantages by linking to a topic-specific goal. |
+| **Paragraph 4** | Re-state judgement, link to long-term business goals. |
+
+**Conclusion**: 1-2 summary sentences per body paragraph (including case study).
+
+#### Analyse/Explain How (Cause-and-Effect)
+
+**Introduction**: Link two ideas together (cause and effect) → state what you're analysing (syllabus dot points) → include all case studies.
+
+| Body Paragraph | Purpose |
+|---|---|
+| **Paragraph 1** | **Cause/effect #1** — How is the business impacted? Why? Show cause and effect with case study. |
+| **Paragraph 2** | **Cause/effect #2** — Same structure. Link to cause #1. |
+| **Paragraph 3** | **Positive Implications (LONG TERM)** — Link to strategic role and business goals. |
+| **Paragraph 4** | **Negative Implications** — Point out an issue. |
+
+**Conclusion**: 1-2 summary sentences per body paragraph (including case study).
+
 ---
 
-## 13. McDonald's Marketing — Detailed Case Study
+## 5. McDonald's Marketing — Detailed Case Study
 
 > **Source**: "BUSINESS CASE STUDY — McDonald's" by A.J. Stanshall (2024)
 
@@ -358,6 +376,7 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 - Goal: shift from **brand engagement** to **brand advocacy** (customers recommending the brand)
 
 ### Factors Influencing Customer Choice
+
 | Factor | McDonald's Example |
 |---|---|
 | **Psychological** | Crocs collab (2023) — nostalgia, belonging; "Health halo" effect (fries next to salad = perceived healthier) |
@@ -395,6 +414,7 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 - Moving towards **hyper-personalised segmentation** using loyalty data — "thousands of customer cohorts, where we used to have less than ten"
 
 ### Market Segmentation
+
 | Base | Examples |
 |---|---|
 | **Demographic** | Happy Meals (age); McCafé (older); campaigns for Black/Hispanic/Asian consumers (US); Halal/Kosher/No beef in India (religion); Family Bundles (family size) |
@@ -408,6 +428,7 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 - **Packaging**: Reinforces brand messaging; new worldwide packaging launched late 2020
 
 ### Pricing Strategies
+
 | Strategy | McDonald's Example |
 |---|---|
 | **Loss leaders** | Loose Change Menu (AU$1+) — attracts customers who also buy higher-margin items |
@@ -434,7 +455,7 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 
 ---
 
-## 14. Extended Response Scaffolds & Worked Examples
+## 6. Extended Response Scaffolds & Worked Examples
 
 ### 2021 HSC — "Analyse how a situational analysis (SWOT, product life cycle) may affect marketing strategies"
 
@@ -468,20 +489,20 @@ Apple has threats such as competition from low-cost Asian providers (Huawei, Xia
 
 ---
 
-## 15. HSC Exam Tips
+## 7. HSC Exam Tips
 
 ### Key Verb Requirements
 
-| Verb                | Action                            |
-| ------------------- | --------------------------------- |
-| **Identify/State**  | Name it — no explanation needed   |
-| **Define**          | One clear meaning                 |
-| **Describe**        | Characteristics and features      |
-| **Explain**         | How/why — cause and effect        |
-| **Discuss**         | For AND against, then judgement   |
-| **Analyse**         | Break down, examine relationships |
-| **Evaluate/Assess** | Weighed judgement with evidence   |
-| **Justify**         | Support a decision with evidence  |
+| Verb | Action |
+|---|---|
+| **Identify/State** | Name it — no explanation needed |
+| **Define** | One clear meaning |
+| **Describe** | Characteristics and features |
+| **Explain** | How/why — cause and effect |
+| **Discuss** | For AND against, then judgement |
+| **Analyse** | Break down, examine relationships |
+| **Evaluate/Assess** | Weighed judgement with evidence |
+| **Justify** | Support a decision with evidence |
 
 ### PEEL Structure
 - **P**oint → **E**xplain → **E**vidence (case study) → **L**ink back to question
@@ -499,7 +520,7 @@ Define → Relationship/impact → Implications → Link (Therefore...)
 
 ---
 
-## 16. Key Definitions Quick Reference
+## 8. Key Definitions Quick Reference
 
 | Term | One-Line Definition |
 |---|---|

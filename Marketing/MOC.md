@@ -90,6 +90,19 @@ created: 2026-05-18
 - Apple case study — key points
 - Key exam tips
 
+### [[Marketing_Section_IV_Essay_Structures]]
+- Assess/Evaluate/Explain essay scaffold (judgement-based)
+- Analyse/Explain How essay scaffold (cause-and-effect, implications)
+- Body paragraph structure for each verb type
+- Key exam tips for Section IV
+
+### [[Marketing_Extended_Mix_People_Processes_Physical_Evidence]]
+- People — quality of customer-employee interaction, customer focus culture
+- Processes — flow of service delivery activities, efficiency for satisfaction
+- Physical evidence — service environment, signage, packaging, store design
+- Apple case study — extra 3Ps with detailed examples
+- Activity solutions with model answers
+
 ---
 
 ## Key Exam Concepts
