@@ -103,6 +103,17 @@ created: 2026-05-18
 - Apple case study — extra 3Ps with detailed examples
 - Activity solutions with model answers
 
+### [[Marketing_E_Marketing_and_Global_Strategies]]
+- E-marketing definition and technologies (web pages, podcasts, SMS, blogs, social media)
+- Apple's e-marketing impact on the 4Ps
+- Global marketing strategies — TNCs and why businesses go global
+- Global branding
+- Standardisation vs customisation (with Apple and McDonald's examples)
+- Global pricing strategies (customised, market customised, standardised)
+- iPhone X global pricing comparison
+- Competitive positioning and value proposition
+- Apple global marketing case study
+
 ---
 
 ## Key Exam Concepts

@@ -27,8 +27,14 @@ tags:
 - Translates the business goal of **profit maximisation** into reality
 - Develops a **marketing plan** with actions and strategies to attain greater sales
 - Modern emphasis: **customer-oriented marketing** — viewing the business through the customer's eyes
+- Marketing today places strong emphasis on understanding consumer behaviour and satisfying customer needs/wants
 
-### 1.2 Interdependence with Other Functions
+### 1.2 Marketing Plan
+- A **marketing plan** is where the business applies marketing strategies based on market research to understand what to sell, their SWOT, and how to position themselves
+- It is the roadmap for how the business will attract and retain customers
+- Aligns marketing activities with overall business goals
+
+### 1.3 Interdependence with Other Functions
 
 | Function | Relationship with Marketing |
 |---|---|
@@ -36,9 +42,9 @@ tags:
 | **Finance** | Finance provides budgets and funds for marketing. Marketing generates revenue that flows to finance to cover expenses |
 | **Human Resources** | HR recruits and trains employees for marketing roles. Untrained staff = wrong market assessments = lower conversion rates and profits |
 
-> **Case Study — BYD**: Operations produces the "Blade Battery" → marketing promotes vehicle safety/reliability. Marketing provides customer feedback → operations modifies cars. Profits are reinvested into factories and research, creating a cycle of continuous improvement.
+> **Case Study — BYD**: Operations produces the "Blade Battery" → marketing promotes vehicle safety/reliability. Marketing provides customer feedback → operations modifies cars. When operations delivers quality, affordable EVs, marketing can sell them in more international markets. Profits are reinvested into factories and research, creating a cycle of continuous improvement.
 
-### 1.3 Marketing Approaches
+### 1.4 Marketing Approaches
 
 | Approach | Core Idea | Focus |
 |---|---|---|
@@ -47,16 +53,19 @@ tags:
 | **Marketing** | Find what customers want, then satisfy that need | Customer orientation, market research, integrated strategies |
 | **Societal** | Balance company profits with societal well-being | Environmental and social responsibility |
 
-### 1.4 Customer Orientation
+> **Apple**: Early iPhones used a **sales approach** (educating customers on features). As expectations grew, shifted to a **marketing approach** (persuasive, research-driven). Customer feedback led to larger screens, thinner builds, better cameras. 2014: larger iPhones released in response to consumer demand.
+
+### 1.5 Customer Orientation
 - Customer relationship **begins with the sale** (doesn't end there)
 - After-sale service, warranties, fulfilling needs and wants
 - Example: free car servicing, longer warranty periods
 
-### 1.5 Relationship Marketing
+### 1.6 Relationship Marketing
 - Core: **customer loyalty** → repeat sales
 - Achieved through reward programs, customer care, after-sales service
+- Development of long-term cost-effective and strong relationships with customers
 
-### 1.6 Types of Markets
+### 1.7 Types of Markets
 
 | Type | Definition | Example |
 |---|---|---|
@@ -64,13 +73,13 @@ tags:
 | **Market segment** | Focus on one area of a market | Sports cars |
 | **Niche market** | Smaller section of a segment | Teenage girl magazines |
 
-> **Apple**: Early iPhones used a **sales approach** (educating customers on features). As expectations grew, shifted to a **marketing approach** (persuasive, research-driven). Customer feedback led to larger screens, thinner builds, better cameras. 2014: larger iPhones released in response to consumer demand.
-
 ---
 
 ## 2. Influences of Marketing
 
 ### 2.1 Factors Influencing Customer Choice
+
+**Why marketers study customer choice**: To understand what motivates an individual to purchase a particular product. Market researchers ask: Who are our customers? What do they buy? When do they buy? How often do they buy? Why do they buy?
 
 #### Psychological (within the individual)
 
@@ -83,34 +92,41 @@ tags:
 | **Self-image** | Buy products matching self-concept |
 | **Learning** | Behaviour changes from experience |
 
-> **Apple**: iPhone 5c (colours) failed — quality expectations (psychological) were stronger than colour preference. iPhone 5s (metallic colours) succeeded — associated with quality/innovation.
+> **Apple**: iPhone 5c (colours) failed — quality expectations (psychological) were stronger than colour preference. iPhone 5s (metallic colours) succeeded — associated with quality/innovation. "Colour reveals your personality" — but consumers prioritised quality over colour.
 
 #### Sociocultural (other people and groups)
 
 | Factor | Key Point |
 |---|---|
 | **Social class** | Grouping by income, occupation, education |
-| **Culture/subculture** | Shared values, multicultural considerations |
+| **Culture/subculture** | Shared values, multicultural considerations — businesses cater for different cultural groups as Australia becomes more multicultural |
 | **Family and roles** | Family members influence decisions |
 | **Reference groups** | Peer influence on purchases |
 
-> **Apple**: Social media/gaming/streaming popularity → marketing promotes camera, screen, processing specs.
+> **Apple**: Social media/gaming/streaming popularity → marketing promotes camera, screen, processing specs to differentiate from competitors.
 
 #### Economic
 
 | Condition | Effect | Marketing Response |
 |---|---|---|
-| **Boom** | Low unemployment, rising income, optimism | Emphasise premium products |
-| **Recession** | High unemployment, falling income, caution | Stress value and usefulness |
+| **Boom** | Low unemployment, rising income, optimism | Emphasise premium products; businesses expand production |
+| **Recession** | High unemployment, falling income, caution | Stress value and usefulness; customers seek functional, long-lasting products |
 
-> **Apple**: GFC → declining iPhone sales → developed low-cost iPhone 5c. COVID-19 → released iPhone SE and "Mini" versions for price-conscious customers.
+> **Apple**: GFC → declining iPhone sales → developed low-cost iPhone 5c and continued selling older models. COVID-19 → released iPhone SE (2020) and "Mini" versions for price-conscious customers.
 
 #### Government
-- **Fiscal policy**: Government budget (taxes, spending) — expands or contracts economic activity
-- **Monetary policy**: RBA adjusts interest rates → affects consumer spending
-- **Regulations**: CCA 2010, Fair Trading Act 1987 — breaches = financial penalties
 
-> **Apple**: iPhone 6 launch delayed in China (privacy concerns). India regulations prevented store expansion for years, eased in 2020.
+**Four types of government influence:**
+
+1. **Fiscal Policy**: The government budget showing revenue sources (taxes) and spending. Used to expand or contract economic activity. Example: introduction of the GST or increases in income tax.
+
+2. **Monetary Policy**: Government through the Reserve Bank uses interest rates to control money supply and inflation. RBA adjusts the cash rate → affects bank interest rates → encourages or discourages consumer spending.
+
+3. **Regulations**: Laws that directly impact marketing activities. Breaches may result in financial penalties.
+
+4. **Government Regulations (direct impact)**: Laws regulating marketing concerns — product contents, health/safety, pricing strategies, distribution channels, ethical promotion.
+
+> **Apple**: iPhone 6 launch delayed in China (privacy concerns). India regulations prevented store expansion for years, eased in 2020. India's $6.6B incentive program boosted local smartphone manufacturing.
 
 ### 2.2 Ethical Influences
 
@@ -132,10 +148,10 @@ tags:
 ### 2.3 Consumer Law (Legal Influences)
 
 #### Competition and Consumer Act 2010 — Two Purposes
-1. Protect consumers from misleading practices
+1. Protect consumers from misleading practices (misrepresenting products, deceptive advertising)
 2. Regulate trade practices that restrict competition
 
-**Enforced by**: ACCC and ASIC
+**Enforced by**: ACCC (Australian Competition and Consumer Commission) and ASIC (Australian Securities and Investment Commission)
 
 #### Deceptive & Misleading Conduct
 
@@ -143,21 +159,26 @@ tags:
 |---|---|
 | Fine print | Important conditions too small to read |
 | Before/after ads | Misleading comparisons |
+| Tests and surveys | Unsubstantiated claims |
 | False country of origin | "Made in Australia" when made overseas |
-| Misleading packaging | Size/shape gives wrong impression |
+| Misleading packaging | Size/shape gives wrong impression of contents |
 | Fake special offers | "Limited time" when offer is permanent |
 | Bait and switch | Advertise cheap items, sell expensive ones when they run out |
+| Dishonest advertising | Deceptive words, false quality claims, fake price reductions |
 
 #### Consumer Rights
 
 | Right | Details |
 |---|---|
-| **Implied conditions** | Product must be fit for purpose; cannot claim false characteristics |
-| **Warranties** | Promise to repair/replace faulty products — also a marketing tool |
+| **Implied conditions** | Unspoken/unwritten terms of contract — product must be fit for purpose; cannot claim false characteristics |
+| **Warranties** | Promise to repair/replace faulty products — also a marketing tool if it includes superior options vs competitors |
 | **Refunds** | Legally required if: faulty, doesn't match description, fails to work. NOT required if: customer changes mind, finds cheaper option, damages after purchase |
 
 #### Price Discrimination
-- Different prices in different markets — **prohibited** if it substantially reduces competition
+- Different prices in different markets
+- Possible because markets are geographically spread or product differentiation exists
+- **Prohibited** if it substantially reduces competition
+- Also applies to discounts, credits, rebates, services and payment arrangements
 
 #### ACCC Case Studies
 
@@ -174,9 +195,18 @@ tags:
 
 ## 3. Marketing Processes
 
-### 3.1 SWOT Analysis
+### 3.1 Steps in Developing a Marketing Plan
 
-**Situational analysis**: Most crucial step — management must understand current position and where heading. Must be based on **meaningful market research**.
+1. Situational Analysis
+2. Market Research
+3. Establish marketing objectives
+4. Identify target markets
+5. Develop marketing strategies
+6. Implementation, monitoring and controlling
+
+### 3.2 Situational Analysis — SWOT
+
+**The most crucial step** — management must understand current position and where heading. Must be based on **meaningful market research**.
 
 | | **Internal** (controllable) | **External** (monitor constantly) |
 |---|---|---|
@@ -185,18 +215,22 @@ tags:
 
 > **Apple SWOT**: Strength = brand reputation | Weakness = high price | Opportunity = AI partnerships | Threat = Asian competitors (Xiaomi, OPPO)
 
-### 3.2 Product Life Cycle
+### 3.3 Product Life Cycle
 
 | Stage | Strategy |
 |---|---|
-| **Introduction** | Build awareness, heavy promotion, limited range |
-| **Growth** | Differentiate brand, expand product line |
-| **Maturity** | Defend market share, stress value, modify product |
-| **Decline** | Reduce spending, consider product deletion |
+| **Introduction** | Build awareness, heavy promotion, limited range, high costs, low/negative profits |
+| **Growth** | Differentiate brand, expand product line, competition increases, shift from "what it is" to "why ours is best" |
+| **Maturity** | Defend market share, stress value, modify product, sales peak, market saturated |
+| **Decline** | Reduce spending, consider product deletion, product becomes outdated |
 
 > CD = decline | PCs = maturity | EVs = growth | Tablets = maturity | Driverless cars = introduction
 
-### 3.3 Market Research
+> **McDonald's French fries**: Introduction (1940s) → Growth (1940s–1990) → Maturity (1990, recipe change due to health campaign, share price fell) → Renewal (Loaded, Twisted, Waffle, Cheesy Bacon fries)
+
+**Marketing strategies change through each stage** — promotion emphasis, pricing approach, distribution channels, and product features all adapt to the current lifecycle position.
+
+### 3.4 Market Research
 
 **Definition**: Systematic collection, recording and analysis of information concerning a specific marketing problem.
 
@@ -221,9 +255,9 @@ tags:
 - Competitor analysis (prices, features, service) → assists **product differentiation**
 - Census data → existing and potential customer characteristics
 
-> **Apple**: Emails post-purchase feedback surveys. Monthly country-by-country surveys reveal: purchase drivers vs competitors, most-used features, demographics, satisfaction levels. Drives continuous improvement and competitive differentiation.
+> **Apple**: Emails post-purchase feedback surveys. Monthly country-by-country surveys reveal: purchase drivers vs competitors, most-used features, demographics, satisfaction levels. "Every month, Apple surveys iPhone buyers" — reveals what drives customers to buy iPhone vs Android. Drives continuous improvement and competitive differentiation.
 
-### 3.4 Marketing Objectives
+### 3.5 Marketing Objectives
 
 **Definition**: Realistic and measurable goals achieved through the marketing plan. Must be aligned to business goals but more **customer oriented**.
 
@@ -240,11 +274,17 @@ tags:
 Market Share (%) = (Company Sales / Total Industry Sales) × 100
 ```
 
-### 3.5 Target Markets & Segmentation
+**Why businesses want to increase market share**: More customers → more sales → competitive advantage → customer satisfaction → repeat purchases → profit maximisation.
+
+**Relationship between customer satisfaction and profits**: Satisfied customers purchase again and recommend to peers → increased sales → increased profits. Extra cash reinvested back into the business for growth.
+
+### 3.6 Target Markets & Segmentation
 
 **Target market**: Group of present and potential customers a business intends to sell to.
 - **Primary**: Most resources directed here
 - **Secondary**: Smaller, less important segment
+
+**Why identify target markets**: To identify appropriate promotional strategies, improve ability to increase sales, ensure products meet customer needs/expectations.
 
 #### Segmentation Bases
 
@@ -252,21 +292,29 @@ Market Share (%) = (Company Sales / Total Industry Sales) × 100
 |---|---|---|
 | **Geographic** | Location, region, climate | Strong in Americas, Europe, Greater China |
 | **Demographic** | Age, income, occupation, education | Young to middle-aged, middle to high income, professionals/students |
-| **Psychographic** | Lifestyle, values, attitudes | Innovation-seekers, quality-focused, early adopters, brand-loyal |
-| **Behavioural** | Buying patterns, brand loyalty, usage | Apple ecosystem loyalty, repeat purchasers |
+| **Psychographic** | Lifestyle, values, attitudes, personality, socioeconomic groups | Innovation-seekers, quality-focused, early adopters, brand-loyal |
+| **Behavioural** | Buying patterns, brand loyalty, usage, benefits sought | Apple ecosystem loyalty, repeat purchasers |
 
 #### Apple's Product-Segment Targets
-- **iPhone**: Broad audience, young adults, professionals, tech enthusiasts
+- **iPhone**: Broad audience — young adults, professionals, tech enthusiasts
 - **iPad**: Creative professionals, students
 - **Mac**: Developers, creative professionals
 - **Apple Watch**: Fitness enthusiasts, professionals
 
-### 3.6 Monitoring & Controlling
+### 3.7 Product Positioning
+
+- **Definition**: How potential buyers from the target market perceive the product
+- The business decides on the image it wishes to create for a product/service
+- Brand names evoke certain images — e.g. No Frills (budget), Rolex (luxury)
+- This image gives the product its **position in the market**
+- Positioning is linked to the marketing mix — all 4Ps must reinforce the desired position
+
+### 3.8 Implementation, Monitoring & Controlling
 
 #### Definitions
-- **Monitoring**: Checking and observing actual progress
-- **Controlling**: Comparing planned vs actual performance, taking **corrective action**
-- **Implementation**: Putting strategies into operation (how, where, when)
+- **Implementation**: Putting strategies into operation — the how, where and when
+- **Monitoring**: Checking and observing actual progress of the marketing plan
+- **Controlling**: Comparing planned vs actual performance, taking **corrective action** to ensure objectives are attained
 
 #### Financial Forecasts
 - **Cost estimate** + **Revenue estimate**
@@ -277,9 +325,9 @@ Market Share (%) = (Company Sales / Total Industry Sales) × 100
 
 | KPI | Purpose |
 |---|---|
-| **Sales analysis** | Evaluate current performance and strategy effectiveness |
+| **Sales analysis** | Evaluate current performance and strategy effectiveness using sales data |
 | **Market share analysis** | Compare performance against competitors |
-| **Marketing profitability analysis** | Break down costs into specific marketing activities |
+| **Marketing profitability analysis** | Break down total marketing costs into specific marketing activities |
 
 #### Revising the Marketing Strategy
 If objectives not met, changes include:
@@ -296,33 +344,104 @@ If objectives not met, changes include:
 #### Product
 Decisions about: quality, packaging/labelling, design, brand name, guarantee. Strategies change with product life cycle stage.
 
+**Total Product Concepts — Tangible and Intangible:**
+- Most products are a combination of tangible and intangible components
+- Customers buy both tangible and intangible benefits
+- A product includes: the package, brand name, warranty, after-sale service
+
+**Product Branding:**
+- A **brand** is a name, term, symbol, design or combination that identifies a specific product and distinguishes it from competitors
+- **Brand symbol and logo**: Graphic representation that identifies a business or product
+- **Branding strategies** (by ownership):
+  1. **Manufacturer's/national brand**: Manufacturer owns the brand name — high appeal, recognised across the country
+  2. **Private/household brand**: Owned by a retailer or wholesaler
+  3. **Generic brands**: Products with no brand name — normally used for supermarket products
+- Branding must be linked to the **reputation** of the business
+
+**Packaging:**
+- Development of container and graphic design for a product
+- How easily is the package recognised — colours, branding, logo
+- Packaging reinforces brand messaging and consumer perception
+
 #### Price
+
+**Pricing Methods:**
+
+| Method | Description |
+|---|---|
+| **Cost-plus pricing** | Formula: Cost + (Cost × Markup %) = Price. Disadvantage: doesn't consider market conditions or other parts of the marketing mix |
+| **Market-based pricing** | Sets prices according to supply and demand interaction — whatever the market is willing to pay. Prices constantly change with market fluctuations |
+| **Competitive pricing** | Price covers costs and is comparable to competitor's price. Used in highly competitive markets — price below, equal to, or above competitors |
+
+**Pricing Strategies:**
 
 | Strategy | When Used |
 |---|---|
-| **Price skimming** | New/innovative products (high initial, lower over time) — e.g. iPhone launch |
-| **Penetration pricing** | Entering competitive markets (low initial price) — e.g. budget airlines |
-| **Competitive pricing** | Established markets with many competitors — match price leader |
-| **Loss leader** | Sell some products below cost to attract customers — e.g. supermarket specials |
-| **Price points** | Psychological pricing — $9.99 instead of $10 |
+| **Price skimming** | New/innovative products — charge high initial price before competitors enter, then lower over time. E.g. iPhone launch ($2,199 Pro Max) |
+| **Penetration pricing** | Entering competitive markets — lowest possible price that still covers cost. Quick market share gain ("mass market pricing"). Not long-term as it impacts revenue |
+| **Competitive pricing** | Established markets with many competitors — match or slightly vary from price leader |
+| **Loss leader** | Sell some products below cost to attract customers who also buy higher-margin items. E.g. supermarket specials at start of aisles |
+| **Price points** | Psychological pricing at predetermined levels — e.g. watches at $55, $75, $95. Common in retail |
 | **Prestige pricing** | Deliberately high price to signal quality/exclusivity — e.g. Rolex, Apple |
 | **Price discrimination** | Different prices in different markets (prohibited if reduces competition) |
+| **Price bundling** | Combining products at a lower total price — e.g. McValue Meals |
+| **Dynamic pricing** | AI-powered adjustments based on real-time demand — e.g. McDonald's |
 
-**Apple pricing:** Price skimming at launches ($2,199 Pro Max), prestige pricing reinforces luxury image, selective price reductions on older models.
+**Apple pricing:** Price skimming at launches, prestige pricing reinforces luxury image, selective price reductions on older models.
 
 #### Promotion
-Methods: advertising, personal selling, sales promotion, publicity/PR, direct marketing, digital/social media
+
+**Definition**: The methods used to communicate information about a product to persuade and remind the target market about its products.
+
+**Elements of the Promotional Communication Process:**
+- **Sender** (business) → **Message** (advertisement) → **Channel** (medium) → **Receiver** (customer)
+- **Noise**: Any interference or distraction that affects any stage in the promotional communication process
+
+**Elements of the Promotion Mix:**
+
+| Method | Details |
+|---|---|
+| **Advertising** | Paid, non-personal communication. Six main media: (1) Mass marketing (TV, radio), (2) Direct marketing catalogues, (3) Telemarketing, (4) Internet, (5) Social media advertising, (6) Billboards |
+| **Personal selling** | Activities of a sales consultant directed to a customer — involves the human aspect of promotion. More persuasive than advertising because of direct interaction |
+| **Sales promotion** | Short-term incentives: coupons, contests, samples, loyalty/rewards programs, free gifts, price discounts, two-for-one deals |
+| **Publicity** | Free news about a business's products — NOT paid for |
+| **Public Relations (PR)** | Activities aimed at creating and maintaining favourable relationships with stakeholders — planned, not free |
+| **Direct marketing** | Direct communication with individual customers — email, mail, catalogues |
+
+**Distinction: Publicity vs Public Relations**
+- Publicity = free, unplanned media coverage
+- PR = planned, strategic management of relationships
 
 #### Place (Distribution)
 
+**Definition**: Not about location — about distribution channels and channel choices. How to get the product from factory to customer.
+
+**Distribution Channels:**
+
 | Level | Path |
 |---|---|
-| Direct | Manufacturer → Consumer |
-| One-level | Manufacturer → Retailer → Consumer |
+| Direct | Manufacturer → Consumer (e.g. Apple website, Apple stores) |
+| One-level | Manufacturer → Retailer → Consumer (e.g. Apple via JB Hi-Fi, Optus, Telstra) |
 | Two-level | Manufacturer → Wholesaler → Retailer → Consumer |
 | Three-level | Manufacturer → Agent → Wholesaler → Retailer → Consumer |
 
-Distribution intensity: Intensive (max outlets) → Selective (chosen outlets) → Exclusive (very few)
+Most large businesses use **at least 2 methods** for flexibility.
+
+**Channel Choice — Distribution Intensity:**
+
+| Type | Description | Example |
+|---|---|---|
+| **Intensive** | Saturate the market — product available everywhere | Coca-Cola, Pepsi (supermarkets, vending machines, restaurants) |
+| **Selective** | Moderate proportion of all possible outlets | Apple (Apple stores + selected retailers like JB Hi-Fi) |
+| **Exclusive** | Only one retail outlet in a large geographic area | Ferrari, Tiffany jewellery (specific outlets only) |
+
+**Innovative Distribution Methods:**
+- Retailing activity conducted away from the traditional store
+- Includes online retailing, pop-up stores, vending machines, direct-to-consumer platforms
+
+**Physical Distribution Issues:**
+- All activities concerned with the efficient movement of products
+- Includes warehousing, transport, inventory management, order processing
 
 ### 4.2 Extended Marketing Mix — People, Processes, Physical Evidence
 
@@ -336,7 +455,74 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 
 > **Apple**: The extra 3 Ps strengthen premium brand image, increase customer satisfaction and loyalty, and maintain competitive advantage.
 
-### 4.3 Section IV Essay Structures
+### 4.3 E-Marketing
+
+**Definition**: Internet marketing — allows a business with online operations to reach a global audience.
+
+#### E-Marketing Technologies
+
+| Technology | Description | Marketing Use |
+|---|---|---|
+| **Web pages** | Combination of text, graphics, animation and video | Physical evidence (branding/packaging), process (ordering/communication), place (distribution), promotion (advertising on other sites) |
+| **Podcasts** | Distribution of digital audio/video files over internet | Publicity — promoting companies through talking/showcasing. Effective if aimed at same audience as target market |
+| **SMS** | Short message service — text messages between mobile phones | Direct promotion — cannot be ignored unless blocked. Used for sales notifications, tracking info, status updates, incentives |
+| **Blogs** | Online diary allowing communication between business and customers | Building relationships, feedback, product information |
+| **Social media advertising** | Use of Facebook and Twitter to promote business | Cost efficiency, vast global reach, higher market share. Disadvantage: anyone can comment (even without trying product) — can worsen brand reputation |
+
+#### Apple's E-Marketing Impact on 4Ps
+
+| P | How E-Marketing Influences It |
+|---|---|
+| **Product** | Detailed specifications online; displayed alongside accessories; FAQs and technical specs reduce customer service costs |
+| **Price** | Price transparency — comparison with competitors; price comparison websites; increased profit margins by selling online (no retail store costs) |
+| **Place** | Global platform without retail costs; sell directly to customers; tailor websites for languages/cultures. Limitation: some customers prefer viewing before purchasing |
+| **Promotion** | Images, audio, video, detailed info on website; new product launches published online; social media ads; database of existing/potential customers for email/social media promotion |
+
+### 4.4 Global Marketing Strategies
+
+**Why businesses go global**: TNCs (Transnational Corporations) operate beyond domestic operations to increase sales, further brand awareness, and establish markets in new countries.
+
+#### Global Branding
+- Worldwide use of a name, logo, term or symbol
+- More effective and efficient to promote a brand rather than individual products
+- A brand has the same meaning in any language
+- **Apple**: Logo changed three times since 1979 — simple, globally recognisable. Competitive advantage due to global brand recognition.
+
+#### Standardisation vs Customisation
+
+| Approach | Description | Apple Example |
+|---|---|---|
+| **Standardisation** | Same marketing strategies worldwide — minor adjustments (language, actors) but overall script is the same | Same iPhone in every country; iPhone 5c ad featured people of various nationalities speaking their own language |
+| **Customisation** | Entirely different strategies for each country — changes based on culture, religion, tastes | iPhone 6 Plus designed for Asian market (large screen); different pricing by market |
+| **Combination** | Most businesses use both — standardise core elements, customise for local markets | Apple changes language/actors (standardised) but adapts pricing and some features (customised) |
+
+**Why research the market**: Differences in language, religion, tastes, and ethics require understanding before entering new markets.
+
+#### Global Pricing Strategies
+
+| Strategy | Description |
+|---|---|
+| **Customised pricing** | Different prices for the same product in different markets. Uses cost-plus method covering: transportation, taxes, warehousing, tariffs |
+| **Market customised pricing** | Prices set according to local market conditions and exchange rate fluctuations |
+| **Standardised pricing** | Same price anywhere in the world — risky due to different purchasing powers |
+
+> **iPhone X prices around the world (64GB $US)**: Russia $1,390 | EU $1,377 | UK $1,330 | China $1,280 | Australia $1,259 | USA $999
+
+**Factors affecting global pricing**: Currency exchange rates, transportation costs, local taxes, tariffs, competition in overseas markets.
+
+#### Global Promotional Strategies
+- Use variety of mediums: TV, Internet, radio
+- Must consider language, religion, culture
+#### Competitive Positioning
+- Formal process of determining how to differentiate from competitors
+- **Value proposition** includes:
+  1. Operational excellence
+  2. Customer intimacy
+  3. Product Leadership
+
+> **Apple**: Historically positioned at high end (quality/design). As developed markets saturated, turned to high-growth emerging economies (China, India). 2014: secured contract with China Mobile (largest carrier) — significant sales increase. Huawei has since overtaken Apple in market share.
+
+### 4.5 Section IV Essay Structures
 
 #### Assess/Evaluate/Explain the Importance of (Judgement-Based)
 
@@ -363,6 +549,11 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 | **Paragraph 4** | **Negative Implications** — Point out an issue. |
 
 **Conclusion**: 1-2 summary sentences per body paragraph (including case study).
+
+#### To Get 12+ Marks (20-mark questions)
+- At least ONE paragraph on SWOT AND one on Product Life Cycle
+- SWOT: 2 body paragraphs — choose ONE part, do at least 2 examples
+- Product Life Cycle: 1 body paragraph — show how ONE strategy changes through PLC
 
 ---
 
@@ -451,17 +642,13 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 ### Global Marketing
 - **"One McDonald's Way"**: Best innovations rolled out across multiple markets
 - **Standardisation**: ~2.5M Big Macs/day; ~15 core global items; economies of scale; McCafé becoming exclusive global coffee brand (100+ equipment types → 5 suppliers)
-- **Customisation**: Beer in Europe; Aloo wrap in India; Teriyaki Mac in Japan
+- **Customisation**: Adapted to local tastes and cultures in different markets
 
 ---
 
 ## 6. Extended Response Scaffolds & Worked Examples
 
 ### 2021 HSC — "Analyse how a situational analysis (SWOT, product life cycle) may affect marketing strategies"
-
-- **To get 12+ marks**: At least ONE paragraph on SWOT AND one on Product Life Cycle
-- **SWOT**: 2 body paragraphs — choose ONE part, do at least 2 examples
-- **Product Life Cycle**: 1 body paragraph — show how ONE strategy changes through PLC
 
 **Model body paragraph (Threats → Product Strategy):**
 Apple has threats such as competition from low-cost Asian providers (Huawei, Xiaomi). Threats are external factors the business cannot control. This has impacted Apple's product strategy — they position as high-quality/luxury with recognisable branding (bitten apple logo) and minimalist white/silver packaging. However, focus on camera improvements raised questions about innovation, affecting market share (17% vs Samsung's 20% in Q2 2023, though improved to 23% vs 16% by Q4 2024). This meets customer expectations, minimising impact of low-cost competitors.
@@ -474,8 +661,7 @@ Apple has threats such as competition from low-cost Asian providers (Huawei, Xia
 
 ### 2025 Past HSC — "Explain how target market impacts on people, processes and physical evidence strategies"
 
-- Must cover ALL 3 strategies (people, processes, physical evidence) for top marks
-- Use PEEL structure for each body paragraph
+Must cover ALL 3 strategies for top marks. Use PEEL structure.
 
 **PEEL example (Processes):**
 - **P:** Processes are influenced by the target market because businesses design processes to meet target market needs. Apple's target market values convenience, speed, and innovation.
@@ -485,7 +671,7 @@ Apple has threats such as competition from low-cost Asian providers (Huawei, Xia
 
 ### 2025 Past HSC — Q26
 - **Q26 (20 marks)**: "Analyse the relationship between market segmentation and marketing strategies"
-- **2012 Section IV**: "Why are ethical behaviour and government regulation important in marketing?"
+- **2012 Section IV**: "Why are ethical behaviour and government regulation important in marketing?" (analyse question)
 
 ---
 
@@ -510,6 +696,11 @@ Apple has threats such as competition from low-cost Asian providers (Huawei, Xia
 ### "Explain" Scaffold
 ```
 Define → Relationship/impact → Implications → Link (Therefore...)
+```
+
+### "Describe" Scaffold
+```
+Definition → Characteristics and features → Relationship between components → Implications → Link
 ```
 
 ### Always Include
@@ -538,10 +729,21 @@ Define → Relationship/impact → Implications → Link (Therefore...)
 | Product life cycle | Introduction → Growth → Maturity → Decline |
 | Customer orientation | Relationship begins with the sale |
 | Relationship marketing | Focus on loyalty and repeat sales |
+| E-marketing | Internet marketing using digital technologies |
+| Global branding | Worldwide use of name, logo, term or symbol |
+| Standardisation | Same marketing strategies worldwide |
+| Customisation | Different strategies for each country/market |
 | Puffery | Exaggerated claims no reasonable person believes |
 | SUGGING | Selling disguised as market research |
 | Price discrimination | Different prices in different markets |
 | ACCC | Enforces Competition and Consumer Act 2010 |
+| TNC | Transnational Corporation — operates beyond domestic market |
+| Fiscal policy | Government budget showing revenue (taxes) and spending |
+| Monetary policy | RBA adjusts interest rates to control money supply and inflation |
+| Product positioning | How potential buyers perceive the product in the market |
+| Intensive distribution | Product available everywhere (saturate market) |
+| Selective distribution | Moderate proportion of outlets |
+| Exclusive distribution | One retail outlet in large geographic area |
 
 ---
 

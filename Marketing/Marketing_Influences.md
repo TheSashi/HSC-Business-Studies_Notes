@@ -8,7 +8,7 @@ created: 2026-05-18
 
 # Marketing Influences — Consumer Law, Ethics & Consumer Behaviour
 
-> **HSC Business Studies — Marketing** | Legal influences (CCA, implied conditions, warranties), ethical influences, and factors influencing customer choice.
+> **HSC Business Studies — Marketing** | Legal influences (CCA, implied conditions, warranties), ethical influences, government influences, and factors influencing customer choice.
 
 ---
 
@@ -89,45 +89,121 @@ A business is **required by law** to offer a refund if:
 
 ### Truth and Accuracy in Advertising
 
-**Unethical marketing practices include:**
-
 | Practice | Description |
 |----------|-------------|
-| **Untruths due to Concealed Facts** | Hiding important information from consumers |
-| **Puffery** | Exaggerated claims that can't be objectively measured |
-| **Stereotyping** | Portraying groups in simplified, often offensive ways |
-| **Exploitation of Fears** | Using fear to manipulate purchasing decisions |
-| **Subliminal Messages** | Hidden messages designed to influence subconsciously |
+| **Untruths due to Concealed Facts** | Pieces of information purposefully omitted from an advertisement which could harm the trust a customer has in the product or business |
+| **Exaggerated Claims (Puffery)** | Exaggerated praise or flattery, especially when used for promotional purposes, that no reasonable person would take as factual |
+| **Vague Statements** | Statements using words so ambiguous that the consumer will assume the advertiser's intended message |
+| **Invasion of Privacy** | Tracking of web users and using the information to target them with advertisements. Normally the consumer can tick a box which opts them out of this |
+
+### Good Taste in Advertising
+
+- Highly subjective — some consumers may regard an advertisement as offensive while others view it as inoffensive
+- Depends on consumers' values, tastes and preferences
+- There is usually common agreement as to what society considers acceptable and marketers must be aware of community sensitivities
+
+### Products That May Damage Health
+
+**Self-regulatory advertising codes include:**
+- **Responsible Children's Marketing Initiative**
+- **Quick Service Restaurant Code:** allows fast food companies to advertise certain products in children's television programs only if they meet specific nutritional guidelines
+- **Codes on alcohol and smoking advertisements**
+
+In addition the federal government sets restrictions on children's advertising such as no advertising during programs for preschool children.
+
+### Engaging in Fair Competition
+
+Due to the amount of competition in the market, some businesses may engage in unfair marketing strategies, which ultimately results in consumer exploitation. These include:
+- **Make false promises**
+- **Highly exaggerated, incomplete product descriptions**
+- **Manipulative, high pressure selling methods**
+
+### SUGGING
+
+**Selling Under the Guise of a Survey** — a sales technique disguised as market research.
+- Although this technique is not illegal, it does raise several ethical issues including invasion of privacy and deception
+- Customers believe they are filling in a survey, while the company is actually marking their products and attempting to sell them something
+
+### Why Businesses Need to Be Ethical
+
+- Build trust
+- Maintain a positive reputation
+- Ensure long-term profitability
+- Comply with legal regulations
 
 ---
 
-## 8. Factors Influencing Customer Choice
+## 8. Government Influences on Marketing
+
+### Fiscal Policy
+
+- Government use of the budget (taxation and government spending) to influence the economy
+- When the government increases spending or reduces taxes, consumers have more disposable income → increased demand
+- When the government reduces spending or increases taxes, consumers have less disposable income → decreased demand
+
+### Monetary Policy
+
+- Reserve Bank of Australia (RBA) adjusts interest rates to influence economic activity
+- **Lower interest rates** → cheaper borrowing → increased consumer spending → businesses may increase prices
+- **Higher interest rates** → more expensive borrowing → decreased consumer spending → businesses may reduce prices
+
+### Regulations
+
+- Government regulations control how businesses can market their products
+- Includes advertising standards, product safety requirements, labelling laws, and environmental regulations
+- Businesses must comply with these regulations or face penalties
+
+---
+
+## 9. Factors Influencing Customer Choice
 
 ### Psychological Factors
-- **Motivation** — internal needs that drive behaviour
-- **Perception** — how consumers interpret information
-- **Learning** — changes in behaviour from experience
-- **Attitudes** — learned tendencies to respond consistently
+
+| Factor | Description |
+|--------|-------------|
+| **Motivation** | Internal needs that drive behaviour (Maslow's hierarchy: physiological, safety, social, esteem, self-actualisation) |
+| **Perception** | How consumers interpret information based on their own experiences and preferences |
+| **Learning** | Changes in behaviour from experience — positive experiences lead to brand loyalty |
+| **Attitudes** | Learned tendencies to respond consistently — formed through experience and information |
+| **Personality** | Individual characteristics that influence buying decisions (e.g. risk-taking vs cautious consumers) |
+| **Self-image** | Consumers buy products that match how they see themselves or wish to be seen |
 
 ### Sociocultural Factors
-- **Culture** — shared values, beliefs, customs
-- **Social Class** — income, education, occupation
-- **Reference Groups** — people who influence attitudes/values
-- **Family** — primary influence on consumer behaviour
+
+| Factor | Description |
+|--------|-------------|
+| **Culture** | Shared values, beliefs, customs that influence consumer preferences |
+| **Social Class** | Determined by income, education, occupation — affects spending patterns and brand preferences |
+| **Reference Groups** | People who influence attitudes and values — family, friends, colleagues, celebrities |
+| **Family** | Primary influence on consumer behaviour — family members shape preferences from early age |
 
 ### Economic Factors
-- **Disposable Income** — money available after tax
-- **Discretionary Income** — money available after necessities
-- **Consumer Credit** — ability to borrow
-- **Economic Conditions** — inflation, unemployment, interest rates
+
+| Factor | Description |
+|--------|-------------|
+| **Disposable Income** | Money available after tax — determines purchasing power |
+| **Discretionary Income** | Money available after necessities — used for luxury/discretionary purchases |
+| **Consumer Credit** | Ability to borrow money — buy now, pay later schemes increase spending |
+| **Economic Conditions** | Overall state of the economy affects consumer confidence and spending |
+| **Boom** | Period of economic growth — high employment, rising incomes, increased consumer confidence and spending |
+| **Recession** | Period of economic decline — rising unemployment, falling incomes, reduced consumer spending |
+
+### Government Policies Affecting Consumer Choice
+
+| Policy | Impact on Consumers |
+|--------|-------------------|
+| **Fiscal Policy** | Tax changes affect disposable income; government spending affects employment and services |
+| **Monetary Policy** | Interest rate changes affect cost of borrowing and saving decisions |
+| **Regulations** | Product safety laws, advertising standards, and labelling requirements protect consumers |
 
 ---
 
-## 9. HSC Exam Tips
+## 10. HSC Exam Tips
 
 - **Consumer law** questions: Always cite the **CCA 2010** and specific provisions
 - **Ethics** questions: Distinguish between what is **legal** and what is **ethical** — they're not the same
 - **Consumer behaviour** questions: Link factors to specific **examples** and **case studies**
+- **Government influences** questions: Show how fiscal/monetary policy affects both businesses and consumers
 
 ---
 
