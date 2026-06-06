@@ -56,7 +56,7 @@ source: Classroom PDF - Past HSC Operations Extended Response Questions
 3. **Cause** — Apple sources raw materials from over 30 different countries from Asia, Europe and America
 4. **How** — Complex supply chain with contracts for competitive prices while maintaining high quality standards
 5. **Effect** — Logistics challenges but cost savings, achieving cost leadership while maintaining quality
-6. **Link to competitive advantage** — Market share increased to 17.7% in 2024
+6. **Link to competitive advantage** — Apple maintains strong market position through global sourcing
 7. **Business goal** — Minimising costs and increasing market share assists in achieving profit maximisation
 
 ---
@@ -163,7 +163,7 @@ source: Classroom PDF - Past HSC Operations Extended Response Questions
 ## Key Exam Technique Tips
 
 1. **Always define key terms** — show the examiner you understand the concepts
-2. **Use specific case study data** — numbers, dates, facts (e.g., "market share of 17.7% in 2024")
+2. **Use specific case study data** — numbers, dates, facts (e.g., "785 suppliers in 31 countries")
 3. **Link cause → effect → implication** — don't just describe, show the relationship
 4. **Make judgements** for "evaluate" questions — use criteria from the question
 5. **Draw out implications** for "analyse" questions — what does this mean for the business?
