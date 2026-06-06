@@ -24,22 +24,15 @@ created: 2026-06-06
 | **Podcasts** | Distribution of digital audio/video files over internet | Publicity — promoting companies through talking/showcasing. Effective if aimed at same audience as target market |
 | **SMS** | Short message service — text messages between mobile phones | Direct promotion — cannot be ignored unless blocked. Used for sales notifications, tracking info, status updates, incentives |
 | **Blogs** | Online diary allowing communication between business and customers | Building relationships, feedback, product information |
-| **Social media advertising** | Use of Facebook, Instagram, Twitter, TikTok to promote business | Cost efficiency, vast global reach, higher market share |
+| **Social media advertising** | Use of Facebook and Twitter to promote business | Cost efficiency, vast global reach, higher market share |
 
 ### 1.2 Social Media Advertising — Advantages & Disadvantages
-
+### 1.2 Social Media Advertising — Advantages & Disadvantages
 | Advantages | Disadvantages |
 |-----------|--------------|
 | Cost efficient — cheaper than traditional media | Anyone can comment — even without trying the product |
 | Vast global reach — connect to all consumers | Can worsen brand reputation through negative reviews |
-| Higher market share potential | May not reach older demographics |
-| Real-time engagement with customers | Requires constant monitoring and response |
-
-### 1.3 How E-Marketing Builds Customer Relationships
-- Social media enables businesses to **constantly build relationships** with customers
-- Two-way communication — businesses can respond to feedback instantly
-- Personalised marketing through data collection and targeting
-- Community building around brand
+| Higher market share potential | |
 
 ### 1.4 Apple's E-Marketing — Impact on the Marketing Mix
 
@@ -60,7 +53,6 @@ Many businesses operate in countries beyond their domestic operations. These are
 - Increase sales
 - Further brand awareness
 - Establish markets in new countries
-- Economies of scale
 
 ### 2.2 Global Branding
 
@@ -68,17 +60,15 @@ Many businesses operate in countries beyond their domestic operations. These are
 
 - More effective and efficient to promote a brand rather than individual products
 - A brand has the same meaning in any language
-- Builds global recognition and trust
 
 **Apple**: Logo changed three times since 1979 — current logo is simple, globally recognisable. Competitive advantage due to global brand recognition. In 2018, Google was most valuable brand (US$300B+), Apple close second.
 
 ### 2.3 Standardisation vs Customisation
 
-| Approach | Description | Pros | Cons |
-|----------|-------------|------|------|
-| **Standardisation** | Same marketing strategies worldwide — minor adjustments (language, actors) but overall script is the same | Economies of scale; consistent brand message; lower costs | May not resonate in different cultures |
-| **Customisation** | Entirely different strategies for each country — changes based on culture, religion, tastes | Better cultural fit; higher local engagement | Higher costs; harder to maintain consistency |
-| **Combination** | Most businesses use both — standardise core elements, customise for local markets | Best of both worlds | Requires significant research |
+| Approach | Description |
+|----------|-------------|
+| **Standardisation** | Same marketing strategies worldwide — no differences in strategies across countries |
+| **Customisation** | Different strategies for each country — changes based on culture, religion, tastes |
 
 **Why research the market**: Differences in language, religion, tastes, and ethics require understanding before entering new markets.
 
@@ -87,7 +77,7 @@ Many businesses operate in countries beyond their domestic operations. These are
 - **Customisation**: iPhone 6 Plus designed for Asian market (large screen); different pricing by market
 - **Combination**: Changes language/actors (standardised) but adapts pricing and some features (customised)
 
-**McDonald's**: Uses combination — standardised core menu items globally but customises for local tastes (beer in Europe, Aloo wrap in India, Teriyaki Mac in Japan)
+**McDonald's**: Uses a combination of standardised and customised strategies — some countries use the same approach, whereas others need strategies adapted to fit local culture.
 
 ### 2.4 Global Pricing Strategies
 

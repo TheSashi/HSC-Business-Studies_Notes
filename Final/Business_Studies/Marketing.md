@@ -467,7 +467,7 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 | **Podcasts** | Distribution of digital audio/video files over internet | Publicity — promoting companies through talking/showcasing. Effective if aimed at same audience as target market |
 | **SMS** | Short message service — text messages between mobile phones | Direct promotion — cannot be ignored unless blocked. Used for sales notifications, tracking info, status updates, incentives |
 | **Blogs** | Online diary allowing communication between business and customers | Building relationships, feedback, product information |
-| **Social media advertising** | Use of Facebook, Instagram, Twitter, TikTok to promote business | Cost efficiency, vast global reach, higher market share. Disadvantage: anyone can comment (even without trying product) — can worsen brand reputation |
+| **Social media advertising** | Use of Facebook and Twitter to promote business | Cost efficiency, vast global reach, higher market share. Disadvantage: anyone can comment (even without trying product) — can worsen brand reputation |
 
 #### Apple's E-Marketing Impact on 4Ps
 
@@ -513,8 +513,6 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 #### Global Promotional Strategies
 - Use variety of mediums: TV, Internet, radio
 - Must consider language, religion, culture
-- Same promotional message adapted for different cultural contexts
-
 #### Competitive Positioning
 - Formal process of determining how to differentiate from competitors
 - **Value proposition** includes:
@@ -644,7 +642,7 @@ The traditional 4Ps focus on goods. The extra 3 Ps address **services**, which a
 ### Global Marketing
 - **"One McDonald's Way"**: Best innovations rolled out across multiple markets
 - **Standardisation**: ~2.5M Big Macs/day; ~15 core global items; economies of scale; McCafé becoming exclusive global coffee brand (100+ equipment types → 5 suppliers)
-- **Customisation**: Beer in Europe; Aloo wrap in India; Teriyaki Mac in Japan
+- **Customisation**: Adapted to local tastes and cultures in different markets
 
 ---
 
