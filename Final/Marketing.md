@@ -215,7 +215,9 @@ A **market** = group of individuals/organisations that need or want a product, h
 5. Develop marketing strategies
 6. Implementation, monitoring and controlling
 
-### 3.2 Situational Analysis — SWOT
+### 3.2 Situational Analysis 
+
+### SWOT
 
 **The most crucial step** — management must understand current position and where heading. Must be based on **meaningful market research**.
 
@@ -226,7 +228,7 @@ A **market** = group of individuals/organisations that need or want a product, h
 
 > **Apple SWOT**: Strength = brand reputation | Weakness = high price | Opportunity = AI partnerships | Threat = Asian competitors (Xiaomi, OPPO)
 
-### 3.3 Product Life Cycle
+### Product Life Cycle
 
 | Stage | Strategy |
 |---|---|
