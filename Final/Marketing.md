@@ -67,7 +67,18 @@ tags:
 
 ### 1.7 Types of Markets
 
-| Type | Definition | Example |
+A **market** = group of individuals/organisations that need or want a product, have the money to purchase it, are willing to spend, and are socially and legally authorised to buy.
+
+| Market Type | Description | Examples |
+|---|---|---|
+| **Resource Market** | Primary production (mining, agriculture, forestry, fishing) | Farmers, miners |
+| **Industrial Market** | Industries/businesses purchasing products for production or operations | Factories buying raw materials |
+| **Intermediate Market** | Wholesalers and retailers who purchase finished products and resell for profit | Coles, Woolworths |
+| **Consumer Market** | Individuals who plan to use/consume products | End consumers |
+
+#### Consumer Market Segments
+
+| Segment | Description | Example |
 |---|---|---|
 | **Mass market** | Appeals to all consumers | Electricity, basic food |
 | **Market segment** | Focus on one area of a market | Sports cars |
