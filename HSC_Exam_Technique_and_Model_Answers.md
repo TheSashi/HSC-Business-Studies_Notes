@@ -293,4 +293,202 @@ Criteria → For (with evidence) → Against (with evidence) → Weighed JUDGEME
 
 ---
 
+## 10. Detailed Verb Scaffolds — Sentence by Sentence
+
+### 10.1 DESCRIBE
+
+**What it means:** Give a clear account of what something is. Identify key features.
+
+**Structure:**
+
+**Sentence 1 — Define**
+[KEY TERM] refers to [formal definition from syllabus].
+
+**Sentence 2 — Features/Characteristics**
+It involves [feature 1], [feature 2], and [feature 3].
+
+**Sentence 3 — Example**
+For example, McDonald's uses [specific example] which demonstrates [how it works].
+
+**Sentence 4 — Link**
+This is important for McDonald's because [reason].
+
+**Tip:** Keep it short. Describe is usually 1-2 marks. Don't overthink it.
+
+---
+
+### 10.2 EXPLAIN (Cause and Effect)
+
+**What it means:** Show WHY something happens and WHAT effect it has. Two part answer.
+
+**Structure:**
+
+**Sentence 1 — Define**
+[KEY TERM] refers to [formal definition].
+
+**Sentence 2 — Cause (Why)**
+This impacts McDonald's because [cause/reason].
+
+**Sentence 3 — Effect (What happens)**
+As a result, [specific effect on the business].
+
+**Sentence 4 — Link**
+Therefore, [key term] is important for McDonald's [marketing/operations/etc] because [link to business goal].
+
+**Example:**
+Market segmentation refers to dividing a market into distinct groups of buyers. This impacts McDonald's because different consumer groups have different needs and preferences. As a result, McDonald's develops targeted marketing strategies for families (Happy Meals), young adults (McCafe), and budget conscious consumers (Loose Change Menu). Therefore, market segmentation is important for McDonald's as it allows the business to meet diverse customer needs and increase market share.
+
+**Tip:** Always answer BOTH parts. Why does it happen? What is the effect?
+
+---
+
+### 10.3 EXPLAIN HOW
+
+**What it means:** Show the relationship between two things. How does A affect B?
+
+**Structure:**
+
+**Sentence 1 — Link the two ideas**
+[THING A] affects [THING B] because [reason].
+
+**Sentence 2 — How (observable change)**
+This is demonstrated through [specific example of how A changes B].
+
+**Sentence 3 — Why it matters**
+This matters because [link to business objective].
+
+**Sentence 4 — Implications**
+As a result, McDonald's [outcome/impact].
+
+**Example:**
+Target market impacts on people strategies because McDonald's designs its workforce approach to meet the expectations of its core consumers. This is demonstrated through the Mates Make It Maccas campaign which targets young Australian workers aged 15-24, offering flexible hours and career development. This matters because McDonald's target market values convenience and speed, requiring staff who can deliver fast service. As a result, McDonald's invests in comprehensive training programs to ensure employees meet customer expectations.
+
+**Tip:** Always show the CONNECTION between the two things. Don't just describe each separately.
+
+---
+
+### 10.4 ANALYSE
+
+**What it means:** Show the relationship between ideas and draw out implications (long term impacts).
+
+**Structure:**
+
+**Sentence 1 — Define and link**
+[THING A] is related to [THING B] because [reason].
+
+**Sentence 2 — Cause/effect #1**
+[THING A] affects [THING B] through [specific example]. This means [implication].
+
+**Sentence 3 — Cause/effect #2**
+Furthermore, [another example of relationship]. As a result, [implication].
+
+**Sentence 4 — Positive implications**
+In the long term, this [positive impact on business].
+
+**Sentence 5 — Negative implications**
+However, [potential negative impact or limitation].
+
+**Example:**
+Situational analysis directly impacts marketing strategies at McDonald's. SWOT analysis reveals that McDonald's strength in brand recognition and scale allows it to invest heavily in digital transformation, with 65% of orders now placed through digital channels. Furthermore, identifying threats from health conscious consumer trends has led McDonald's to develop healthier menu options and transparent nutritional labelling. In the long term, this strategic awareness positions McDonald's to maintain its 23.2% market share. However, failing to adequately address weaknesses such as negative health perceptions could erode brand loyalty over time.
+
+**Tip:** Analyse requires showing HOW things are connected AND what the implications are. Don't just list facts.
+
+---
+
+### 10.5 EVALUATE / ASSESS
+
+**What it means:** Make a judgement. How effective or important is something? Weigh up advantages and disadvantages.
+
+**Structure:**
+
+**Introduction:**
+[KEY TERM] is [judgement sentence, e.g. highly important/effective]. This essay will evaluate [topic] by examining [point 1], [point 2], and [point 3].
+
+**Body 1 — Advantage #1**
+One advantage is [advantage]. For example, [specific evidence with stats]. This demonstrates [why it is effective].
+
+**Body 2 — Advantage #2**
+Additionally, [second advantage]. [Evidence and reasoning]. This contributes to [business objective].
+
+**Body 3 — Disadvantage #1**
+However, there are disadvantages. [Disadvantage]. For example, [evidence]. This may [negative impact].
+
+**Body 4 — Disadvantage #2 / Limitation**
+Furthermore, [second disadvantage]. [Evidence]. Despite this, [counter argument or mitigation].
+
+**Conclusion:**
+In conclusion, [restate judgement]. Although [disadvantages], the advantages [outweigh/are significant because]. McDonald's [strategy] contributes to [business goals such as market share, revenue, customer loyalty].
+
+**Tip:** You MUST make a clear judgement. Don't sit on the fence. Say whether it is effective or not effective, important or not important.
+
+---
+
+### 10.6 DISCUSS
+
+**What it means:** Present arguments for AND against, then make a balanced judgement.
+
+**Structure:**
+
+**Introduction:**
+[STATE THE ISSUE]. This essay will discuss arguments for and against [topic].
+
+**Body 1 — Argument FOR**
+One argument for [topic] is [reason]. For example, [evidence]. This suggests [positive implication].
+
+**Body 2 — Argument FOR (continued)**
+Furthermore, [second reason FOR]. [Evidence]. This demonstrates [positive outcome].
+
+**Body 3 — Argument AGAINST**
+However, one argument against [topic] is [reason]. For example, [evidence]. This suggests [negative implication].
+
+**Body 4 — Argument AGAINST (continued)**
+Additionally, [second reason AGAINST]. [Evidence]. This raises concerns about [negative outcome].
+
+**Conclusion:**
+In conclusion, while [arguments for], [arguments against] cannot be ignored. Overall, [balanced judgement with reasoning].
+
+**Tip:** Give EQUAL weight to both sides. Don't spend 3 paragraphs on FOR and 1 on AGAINST.
+
+---
+
+### 10.7 JUSTIFY
+
+**What it means:** Provide reasons and evidence to support a position. Prove that something is the right choice.
+
+**Structure:**
+
+**Sentence 1 — State position**
+[THING] is justified because [primary reason].
+
+**Sentence 2 — Evidence #1**
+Firstly, [reason with evidence]. For example, [specific McDonald's example with stats].
+
+**Sentence 3 — Evidence #2**
+Secondly, [reason with evidence]. This is demonstrated by [example].
+
+**Sentence 4 — Address counter argument**
+While [potential counter argument], this is outweighed by [reason].
+
+**Sentence 5 — Link**
+Therefore, [restate position] as it contributes to [business goal].
+
+**Tip:** Justify is like a one sided evaluate. You are proving your position is correct.
+
+---
+
+## 11. Verb Quick Reference
+
+| Verb | What to do | Key phrase |
+|------|-----------|------------|
+| Describe | Identify features | X refers to Y. It involves A, B, C. |
+| Explain | Show cause and effect | X impacts Y because Z. As a result... |
+| Explain how | Show relationship between two things | A affects B through C. This means... |
+| Analyse | Show relationship and implications | A is related to B. In the long term... |
+| Evaluate | Make a judgement (weigh pros and cons) | X is effective because... However... Overall... |
+| Assess | Make a judgement (how important/effective) | X is important because... Despite... Overall... |
+| Discuss | Present both sides then judge | One argument for X is... However... In conclusion... |
+| Justify | Prove your position is right | X is justified because... This is demonstrated by... |
+
+---
+
 > **See also:** [[Finance_Management]] | [[Marketing]] | [[Operations]] | [[Human_Resources]] | [[Case_Studies]] | [[MOC]]
