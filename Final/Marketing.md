@@ -94,14 +94,14 @@ A **market** = group of individuals/organisations that need or want a product, h
 
 #### Psychological (within the individual)
 
-| Factor | Key Point |
-|---|---|
-| **Perception** | How consumers view/interpret products |
-| **Motives** | Internal drives to purchase |
-| **Attitudes** | Learned predisposition towards a product |
-| **Personality** | Unique psychological characteristics |
-| **Self-image** | Buy products matching self-concept |
-| **Learning** | Behaviour changes from experience |
+| Factor          | Key Point                                |
+| --------------- | ---------------------------------------- |
+| **Perception**  | How consumers view/interpret products    |
+| **Motives**     | Internal drives to purchase              |
+| **Attitudes**   | Learned predisposition towards a product |
+| **Personality** | Unique psychological characteristics     |
+| **Self-image**  | Buy products matching self-concept       |
+| **Learning**    | Behaviour changes from experience        |
 
 > **Apple**: iPhone 5c (colours) failed — quality expectations (psychological) were stronger than colour preference. iPhone 5s (metallic colours) succeeded — associated with quality/innovation. "Colour reveals your personality" — but consumers prioritised quality over colour.
 
