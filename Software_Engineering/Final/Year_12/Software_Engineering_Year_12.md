@@ -25,6 +25,86 @@ updated: 2026-07-15
 - **3 control structures:** Sequence, Selection, Repetition. **Pseudocode:** `IF/ELSEIF/ELSE/ENDIF`, `WHILE/ENDWHILE`, `FOR/NEXT`, `REPEAT/UNTIL`, `PRINT`, `INPUT`.
 - **Desk-check 4 rules:** (1) variables present, (2) conditions present, (3) output statements present, (4) statements in code order. (Worked examples in [[Software_Engineering_Year_11]] §2.)
 
+
+### How to actually do a desk check (step by step)
+
+A desk check is a **trace table**: you run the code by hand, one line at a time, and write down what each variable holds AFTER every line. That is the whole skill. Markers just want to see your variables tracked step by step.
+
+**Set it up:**
+- One column per variable, plus an `OUTPUT` column and a `STEP` column.
+- Use `-` for not assigned yet / unknown.
+- For an `INPUT` line, drop in the test value you are feeding it.
+- After each line, write the NEW value of whatever that line changed.
+
+**Exam rules to lock in:**
+- Every variable gets a column, even before it is used. Unused = `-`.
+- Write the value AFTER the line runs, not before.
+- The condition line (`IF` / `WHILE`) gets its own step. Jot true/false next to it.
+- When a loop finishes, show the final FALSE check too. Markers look for that.
+- Feed in test data as normal / boundary / extreme. That is the validation side of it.
+
+**Worked example — straight lines (sequence):**
+```
+x = 5
+y = 10
+x = x + y
+OUTPUT x
+```
+| STEP | x | y | OUTPUT |
+|---|---|---|---|
+| 1 | - | - | - |
+| 2 | 5 | - | - |
+| 3 | 5 | 10 | - |
+| 4 | 15 | 10 | - |
+| 5 | 15 | 10 | 15 |
+
+Final output = 15. Note x changes twice; row 4 shows the new 15.
+
+**Worked example — WHILE loop:**
+```
+total = 0
+count = 1
+WHILE count <= 3:
+    total = total + count
+    count = count + 1
+OUTPUT total
+```
+| STEP | total | count | OUTPUT | note |
+|---|---|---|---|---|
+| 1 | 0 | - | - | init |
+| 2 | 0 | 1 | - | init |
+| 3 | 0 | 1 | - | check 1<=3 TRUE |
+| 4 | 1 | 1 | - | total = 0+1 |
+| 5 | 1 | 2 | - | count = 2 |
+| 6 | 1 | 2 | - | check 2<=3 TRUE |
+| 7 | 3 | 2 | - | total = 1+2 |
+| 8 | 3 | 3 | - | count = 3 |
+| 9 | 3 | 3 | - | check 3<=3 TRUE |
+| 10 | 6 | 3 | - | total = 3+3 |
+| 11 | 6 | 4 | - | count = 4 |
+| 12 | 6 | 4 | - | check 4<=3 FALSE, exit |
+| 13 | 6 | 4 | 6 | output |
+
+Final output = 6 (that is 1+2+3). Loop ran 3 times.
+
+**Worked example — IF / ELSE:**
+```
+age = 16
+IF age >= 18 THEN
+    status = "adult"
+ELSE
+    status = "minor"
+OUTPUT status
+```
+| STEP | age | status | OUTPUT |
+|---|---|---|---|
+| 1 | 16 | - | - |
+| 2 | 16 | - | (16>=18? false, go ELSE) |
+| 3 | 16 | minor | - |
+| 4 | 16 | minor | minor |
+
+Output = "minor".
+
 ### A3. Security principles recap (used in web + secure architecture)
 - **CIA triad:** Confidentiality (how secret data is), Integrity (how whole/intact), Availability (how accessible).
 - **Authentication** (verify credentials) vs **Authorisation** (permission level). "You can have authentication without authorisation, but not authorisation without authentication."
