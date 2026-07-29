@@ -15,7 +15,7 @@ aliases:
   - Operations Management
   - HSC Operations Notes
 ---
-
+a
 # Operations — HSC Final Notes
 
 > **Module: Operations** | Complete revision document for the HSC exam.

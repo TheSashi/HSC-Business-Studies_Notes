@@ -35,13 +35,13 @@ source: Classroom PDF - Past HSC Operations Extended Response Questions
 > Make a judgement based on criteria — here the criteria is **achieving competitive advantage**
 
 ### Recommended Strategies (Choose 3)
-- [[Operations/Operations_Strategies|Supply Chain Management]] — choose one: Logistics, Global Sourcing, or E-Commerce
+- [[Operations_Strategies|Supply Chain Management]] — choose one: Logistics, Global Sourcing, or E-Commerce
 - Technology
 - Outsourcing
 - Inventory Management
 - Quality Improvement — choose one: Quality Control, Quality Assurance, or Quality Improvement
 - New Product Design and Development
-- [[Operations/Operations_Influences|Global Factors]] — choose one: Global Sourcing, Economies of Scale, Scanning and Learning, or R&D
+- [[Operations_Influences|Global Factors]] — choose one: Global Sourcing, Economies of Scale, Scanning and Learning, or R&D
 
 > **NOT recommended:** Performance Objectives or Overcoming Resistance to Change
 

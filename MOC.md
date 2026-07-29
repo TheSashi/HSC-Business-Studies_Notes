@@ -15,28 +15,28 @@ updated: 2026-05-18
 ## Core Topics
 
 ### 1. Operations — [[Operations/MOC|Operations MOC]]
-- [[Operations/Operations_Role_and_Strategic_Direction]] — Role, transformation, value adding, cost leadership, differentiation, performance objectives
-- [[Operations/Operations_Processes]] — Inputs, 4Vs, technology, layout, sequencing, monitoring
-- [[Operations/Operations_Strategies]] — Quality management, inventory, SCM, outsourcing, new product design
-- [[Operations/Operations_Influences]] — Globalisation, technology, quality, cost, legal, sustainability
-- [[Operations/Operations_Practice_Questions]] — Past HSC questions, exam technique, Apple case study
+- [[Operations_Role_and_Strategic_Direction]] — Role, transformation, value adding, cost leadership, differentiation, performance objectives
+- [[Operations_Processes]] — Inputs, 4Vs, technology, layout, sequencing, monitoring
+- [[Operations_Strategies]] — Quality management, inventory, SCM, outsourcing, new product design
+- [[Operations_Influences]] — Globalisation, technology, quality, cost, legal, sustainability
+- [[Operations_Practice_Questions]] — Past HSC questions, exam technique, Apple case study
 
 ### 2. Marketing — [[Marketing/MOC|Marketing MOC]]
-- [[Marketing/Marketing_Role_and_Approaches]] — Strategic role, approaches, customer orientation, relationship marketing
-- [[Marketing/Marketing_Process]] — Objectives, target markets, SWOT, market research
-- [[Marketing/Marketing_Segmentation_and_Positioning]] — Segmentation variables, differentiation, positioning
-- [[Marketing/Marketing_Product_and_Promotional_Strategies]] — Branding, packaging, PLC, promotional mix, 4Ps
-- [[Marketing/Marketing_Influences]] — Consumer law (CCA 2010), ethics, consumer behaviour
-- [[Marketing/Marketing_Practice_Questions]] — Past HSC questions, exam scaffolds, Apple case study
+- [[Marketing_Role_and_Approaches]] — Strategic role, approaches, customer orientation, relationship marketing
+- [[Marketing_Process]] — Objectives, target markets, SWOT, market research
+- [[Marketing_Segmentation_and_Positioning]] — Segmentation variables, differentiation, positioning
+- [[Marketing_Product_and_Promotional_Strategies]] — Branding, packaging, PLC, promotional mix, 4Ps
+- [[Marketing_Influences]] — Consumer law (CCA 2010), ethics, consumer behaviour
+- [[Marketing_Practice_Questions]] — Past HSC questions, exam scaffolds, Apple case study
 
 ### 3. Finance — [[Finance/MOC|Finance MOC]]
-- [[Finance/Finance_Role_and_Planning]] — Role of FM, objectives, planning, budgets, control
-- [[Finance/Finance_Sources_of_Finance]] — Internal/external, debt/equity, all sources
-- [[Finance/Finance_Institutions_and_Government]] — Institutions, ASX, RBA, ASIC, global markets
-- [[Finance/Finance_Ratios_and_Strategies]] — All 7 ratios, cash flow, profitability strategies, cost centres
-- [[Finance/Finance_Global_Strategies]] — Exchange rates, hedging, derivatives, international payments
-- [[Finance/Finance_Limitations_and_Ethics]] — Financial statement limitations, ethical issues
-- [[Finance/Finance_Model_Answers]] — McDonald's model answers, past HSC, exam technique
+- [[Finance_Role_and_Planning]] — Role of FM, objectives, planning, budgets, control
+- [[Finance_Sources_of_Finance]] — Internal/external, debt/equity, all sources
+- [[Finance_Institutions_and_Government]] — Institutions, ASX, RBA, ASIC, global markets
+- [[Finance_Ratios_and_Strategies]] — All 7 ratios, cash flow, profitability strategies, cost centres
+- [[Finance_Global_Strategies]] — Exchange rates, hedging, derivatives, international payments
+- [[Finance_Limitations_and_Ethics]] — Financial statement limitations, ethical issues
+- [[Finance_Model_Answers]] — McDonald's model answers, past HSC, exam technique
 
 ### 4. Human Resources
 - [[Human_Resources]] — Role of HRM, influences, legal framework, HRM strategies, motivation theories
@@ -52,10 +52,10 @@ updated: 2026-05-18
 - [[Case_Studies]] — Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd
 
 ### Past Essays
-- [[Past_Essays/Finance_Assessment_Draft]] — Apple financial analysis draft
-- [[Past_Essays/Marketing_Assess_Influences_on_Marketing_Process]] — Assess influences on marketing
-- [[Past_Essays/Marketing_Practise_Extended_Response]] — Practice marketing extended responses
-- [[Past_Essays/Operations_Past_HSC_Extended_Responses]] — Past HSC operations questions
+- [[Finance_Assessment_Draft]] — Apple financial analysis draft
+- [[Marketing_Assess_Influences_on_Marketing_Process]] — Assess influences on marketing
+- [[Marketing_Practise_Extended_Response]] — Practice marketing extended responses
+- [[Operations_Past_HSC_Extended_Responses]] — Past HSC operations questions
 
 ---
 
