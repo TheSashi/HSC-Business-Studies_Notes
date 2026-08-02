@@ -131,17 +131,18 @@ The **employment contract** is a legally binding agreement between employer and 
 | **Constructive dismissal** | The employee resigns because the employer's conduct made continued employment intolerable |
 | **Summary dismissal** | Immediate dismissal for **serious misconduct** (theft, violence, fraud) |
 
-> **Worked process — dismissing for poor performance without triggering an unfair dismissal claim**
-> An employer cannot dismiss instantly for poor performance. A documented process must be followed, and it must be **written into the employment contract**:
->
-> | Step | Action |
-> |---|---|
-> | **1. Verbal warning** | Recorded on the staff file. The employer **must offer assistance and training**; all support given must be documented |
-> | **2. First written warning** | If no improvement in the given time despite assistance, a written warning is filed. A set time to improve is given, with further support documented |
-> | **3. Second written warning** | If still no improvement, a further written warning is issued with a final set time to improve |
-> | **4. Termination** | If the employee has still not improved, employment can be terminated |
->
-> This process **takes a long time and requires accurate documentation**, in case the employee sues for unfair dismissal. Failing to follow it exposes the business to a claim.
+**Worked process — dismissing for poor performance without triggering an unfair dismissal claim**
+
+An employer cannot dismiss instantly for poor performance. A documented process must be followed, and it must be **written into the employment contract**:
+
+| Step | Action |
+|---|---|
+| **1. Verbal warning** | Recorded on the staff file. The employer **must offer assistance and training**; all support given must be documented |
+| **2. First written warning** | If no improvement in the given time despite assistance, a written warning is filed. A set time to improve is given, with further support documented |
+| **3. Second written warning** | If still no improvement, a further written warning is issued with a final set time to improve |
+| **4. Termination** | If the employee has still not improved, employment can be terminated |
+
+This process **takes a long time and requires accurate documentation**, in case the employee sues for unfair dismissal. Failing to follow it exposes the business to a claim.
 
 ---
 

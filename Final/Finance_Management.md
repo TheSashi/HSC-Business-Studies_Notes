@@ -380,20 +380,21 @@ Earnings **adjusted for the cyclical ups and downs** of the economy. On the Prof
 
 The purchase price of a non-current asset is added to the cost of setting it up, and that total is used as the **value of the asset in the balance sheet**. The value is then written off as an expense in the income statement over the asset's useful life — this is **depreciation**.
 
-> **Worked example — capitalising expenses**
-> Purchased new equipment for $1,000,000:
->
-> | Item | Amount |
-> |---|---|
-> | Purchase price | $1,000,000 |
-> | Delivery costs | $500 |
-> | Installation costs | $1,500 |
-> | Training costs | $5,000 |
-> | **Value of asset in Balance Sheet** | **$1,007,000** (historical cost) |
->
-> These costs would normally appear as **expenses** in the P&L, **except** where they relate to purchasing a non-current asset — then they are included in the **asset's value** on the Balance Sheet.
+**Worked example — capitalising expenses**
 
-> **The abuse**: Taking ordinary expenses and **inappropriately capitalising** them is illegal. It lowers reported expenses, inflates profit, and misleads stakeholders.
+Purchased new equipment for $1,000,000:
+
+| Item | Amount |
+|---|---|
+| Purchase price | $1,000,000 |
+| Delivery costs | $500 |
+| Installation costs | $1,500 |
+| Training costs | $5,000 |
+| **Value of asset in Balance Sheet** | **$1,007,000** (historical cost) |
+
+These costs would normally appear as **expenses** in the P&L, **except** where they relate to purchasing a non-current asset — then they are included in the **asset's value** on the Balance Sheet.
+
+**The abuse**: Taking ordinary expenses and **inappropriately capitalising** them is illegal. It lowers reported expenses, inflates profit, and misleads stakeholders.
 
 #### Valuing Assets
 
@@ -402,24 +403,24 @@ Businesses normally follow the **historical cost concept** — recording assets 
 1. **Appreciation** — inflation and market forces mean land and property tend to **rise** in value, so the business should **revalue** to show a true reflection
 2. **Wear and tear** — equipment loses value, so it should be **devalued** through depreciation
 
-> **Increasing asset values**: To increase the value of assets such as land and property, a business needs **at least two independent valuations** as evidence.
+**Increasing asset values**: To increase the value of assets such as land and property, a business needs **at least two independent valuations** as evidence.
 
-> **Worked example — straight-line depreciation**
-> Historical cost $1,000,000 | Useful lifetime 10 years | Disposal value $1,000
->
-> ```
-> Straight-line depreciation = (Historical cost − Disposal value) ÷ Useful lifetime
->                            = (1,000,000 − 1,000) ÷ 10
->                            = 999,000 ÷ 10
->                            = $99,900 per year
-> ```
->
-> | | Income Statement (Expenses) | Balance Sheet (Non-Current Assets) |
-> |---|---|---|
-> | **Year 1** | Depreciation $99,900 | 1,000,000 − 99,900 accumulated = **$900,100** |
-> | **Year 2** | Depreciation $99,900 | 1,000,000 − 199,800 accumulated = **$800,200** |
+**Worked example — straight-line depreciation**
+Historical cost $1,000,000 | Useful lifetime 10 years | Disposal value $1,000
 
-> **Intangibles**: Goodwill, trademarks, licences and patents are **impossible to value accurately**, which is itself a limitation.
+```
+Straight-line depreciation = (Historical cost − Disposal value) ÷ Useful lifetime
+                           = (1,000,000 − 1,000) ÷ 10
+                           = 999,000 ÷ 10
+                           = $99,900 per year
+```
+
+| | Income Statement (Expenses) | Balance Sheet (Non-Current Assets) |
+|---|---|---|
+| **Year 1** | Depreciation $99,900 | 1,000,000 − 99,900 accumulated = **$900,100** |
+| **Year 2** | Depreciation $99,900 | 1,000,000 − 199,800 accumulated = **$800,200** |
+
+**Intangibles**: Goodwill, trademarks, licences and patents are **impossible to value accurately**, which is itself a limitation.
 
 #### Timing Issues
 
@@ -563,16 +564,17 @@ Setting **marketing objectives** and using the marketing mix to drive sales reve
 | **Margin of Safety** | Actual (or expected) sales − Break-even sales |
 | **Target Profit (units)** | (Fixed Costs + Target Profit) ÷ Contribution per unit |
 
-> **Worked example**
-> A café has fixed costs of **$60,000/year**. Each coffee sells for **$5** with a variable cost of **$2**.
->
-> | Calculation | Working | Result |
-> |---|---|---|
-> | Contribution per unit | 5 − 2 | **$3** |
-> | Break-even (units) | 60,000 ÷ 3 | **20,000 coffees** |
-> | Break-even ($) | 20,000 × 5 | **$100,000** |
-> | Margin of safety (selling 25,000) | 25,000 − 20,000 | **5,000 coffees** |
-> | Units for $15,000 target profit | (60,000 + 15,000) ÷ 3 | **25,000 coffees** |
+**Worked example**
+
+A café has fixed costs of **$60,000/year**. Each coffee sells for **$5** with a variable cost of **$2**.
+
+| Calculation | Working | Result |
+|---|---|---|
+| Contribution per unit | 5 − 2 | **$3** |
+| Break-even (units) | 60,000 ÷ 3 | **20,000 coffees** |
+| Break-even ($) | 20,000 × 5 | **$100,000** |
+| Margin of safety (selling 25,000) | 25,000 − 20,000 | **5,000 coffees** |
+| Units for $15,000 target profit | (60,000 + 15,000) ÷ 3 | **25,000 coffees** |
 
 | Change | Effect on Break-Even Point |
 |---|---|

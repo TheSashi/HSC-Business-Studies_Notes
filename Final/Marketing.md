@@ -12,7 +12,6 @@ tags:
   - exam-ready
   - revision
 ---
-
 # Marketing — HSC Final Notes
 
 > **Module 7: Marketing** | Complete revision document for the HSC exam.
@@ -254,12 +253,12 @@ A **market** = group of individuals/organisations that need or want a product, h
 
 #### Primary vs Secondary
 
-| | Primary | Secondary |
-|---|---|---|
-| **Source** | Business conducts own research | Others' research |
-| **Methods** | Surveys, observations, focus groups | Internet, Census, industry reports |
-| **Pros** | Specific, current, controlled | Cheap, available, broader context |
-| **Cons** | Expensive, time-consuming | May be outdated, not specific enough |
+|             | Primary                             | Secondary                            |
+| ----------- | ----------------------------------- | ------------------------------------ |
+| **Source**  | Business conducts own research      | Others' research                     |
+| **Methods** | Surveys, observations, focus groups | Internet, Census, industry reports   |
+| **Pros**    | Specific, current, controlled       | Cheap, available, broader context    |
+| **Cons**    | Expensive, time-consuming           | May be outdated, not specific enough |
 
 #### What Market Research Reveals
 - Consumer needs/wants and preferences

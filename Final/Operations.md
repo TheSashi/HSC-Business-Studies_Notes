@@ -215,37 +215,37 @@ Opening       ──────────────────────
 | **Concurrent activities** | Activities that can be carried out **at the same time** |
 | **Dependency** | An activity that cannot start until another finishes |
 
-> **Worked example — Critical Path Analysis**
->
-> | Activity | Duration (days) | Must follow |
-> |---|---|---|
-> | A | 3 | — |
-> | B | 4 | — |
-> | C | 2 | A |
-> | D | 5 | B |
-> | E | 3 | C and D |
->
-> **Network:**
-> ```
->            A (3)        C (2)
->      ┌──────────►○──────────►┐
->  START                        ├──►  E (3)  ──► FINISH
->      └──────────►○──────────►┘
->            B (4)        D (5)
-> ```
->
-> **Step 1 — list every path and total it:**
-> - Path 1: A → C → E = 3 + 2 + 3 = **8 days**
-> - Path 2: B → D → E = 4 + 5 + 3 = **12 days**
->
-> **Step 2 — identify the critical path:** the longest path is **B → D → E**.
->
-> **Step 3 — state the project duration:** the shortest time to complete all tasks is **12 days**.
->
-> **Step 4 — calculate float on the non-critical path:**
-> Path A→C→E takes 8 days but has 12 days available, so **A and C each have 4 days of float**. They can be delayed up to 4 days without delaying the opening.
->
-> **Answering the question "which task determines when E can be performed?"** → **D**, because E cannot begin until both C (finished day 5) and D (finished day 9) are complete. The later of the two — D — is the constraint.
+**Worked example — Critical Path Analysis**
+
+| Activity | Duration (days) | Must follow |
+|---|---|---|
+| A | 3 | — |
+| B | 4 | — |
+| C | 2 | A |
+| D | 5 | B |
+| E | 3 | C and D |
+
+**Network:**
+```
+           A (3)        C (2)
+     ┌──────────►○──────────►┐
+ START                        ├──►  E (3)  ──► FINISH
+     └──────────►○──────────►┘
+           B (4)        D (5)
+```
+
+**Step 1 — list every path and total it:**
+- Path 1: A → C → E = 3 + 2 + 3 = **8 days**
+- Path 2: B → D → E = 4 + 5 + 3 = **12 days**
+
+**Step 2 — identify the critical path:** the longest path is **B → D → E**.
+
+**Step 3 — state the project duration:** the shortest time to complete all tasks is **12 days**.
+
+**Step 4 — calculate float on the non-critical path:**
+Path A→C→E takes 8 days but has 12 days available, so **A and C each have 4 days of float**. They can be delayed up to 4 days without delaying the opening.
+
+**Answering the question "which task determines when E can be performed?"** → **D**, because E cannot begin until both C (finished day 5) and D (finished day 9) are complete. The later of the two — D — is the constraint.
 
 **How CPA assists the transformation process:**
 
@@ -383,35 +383,36 @@ Produce or order **only** what is needed, when it is needed.
 
 **The decision table — memorise this:**
 
-| | **Understate / minimise profit** (to reduce tax) | **Overstate / maximise profit** (for potential investors) |
-|---|---|---|
-| **Cost of inventory is increasing** | **LIFO** | **FIFO** |
-| **Cost of inventory is decreasing** | **FIFO** | **LIFO** |
+|                                     | **Understate / minimise profit** (to reduce tax) | **Overstate / maximise profit** (for potential investors) |
+| ----------------------------------- | ------------------------------------------------ | --------------------------------------------------------- |
+| **Cost of inventory is increasing** | **LIFO**                                         | **FIFO**                                                  |
+| **Cost of inventory is decreasing** | **FIFO**                                         | **LIFO**                                                  |
 
-> **Worked example — FIFO vs LIFO with rising costs**
->
-> **Purchases:**
-> | Date | Units | Cost per unit | Total |
-> |---|---|---|---|
-> | 1 Jan | 100 | $10 | $1,000 |
-> | 1 Feb | 100 | $12 | $1,200 |
-> | 1 Mar | 100 | $14 | $1,400 |
-> | **Total** | **300** | | **$3,600** |
->
-> **150 units are sold at $20 each → Sales revenue = $3,000**
->
-> **FIFO** (oldest sold first): COGS = (100 × $10) + (50 × $12) = 1,000 + 600 = **$1,600**
-> Closing stock = (50 × $12) + (100 × $14) = 600 + 1,400 = **$2,000**
-> **Gross profit = 3,000 − 1,600 = $1,400**
->
-> **LIFO** (newest sold first): COGS = (100 × $14) + (50 × $12) = 1,400 + 600 = **$2,000**
-> Closing stock = (50 × $12) + (100 × $10) = 600 + 1,000 = **$1,600**
-> **Gross profit = 3,000 − 2,000 = $1,000**
->
-> **Weighted average**: $3,600 ÷ 300 units = **$12 per unit**
-> COGS = 150 × 12 = **$1,800** → **Gross profit = $1,200**
->
-> **Conclusion**: With **rising** costs, **FIFO reports the higher profit** ($1,400) — chosen to impress investors. **LIFO reports the lower profit** ($1,000) — chosen to reduce tax. Weighted average sits between the two. Note COGS + closing stock = $3,600 in every method: the total cost is the same, only its *allocation* differs.
+**Worked example — FIFO vs LIFO with rising costs**
+
+**Purchases:**
+
+| Date | Units | Cost per unit | Total |
+|---|---|---|---|
+| 1 Jan | 100 | $10 | $1,000 |
+| 1 Feb | 100 | $12 | $1,200 |
+| 1 Mar | 100 | $14 | $1,400 |
+| **Total** | **300** | | **$3,600** |
+
+**150 units are sold at $20 each → Sales revenue = $3,000**
+
+**FIFO** (oldest sold first): COGS = (100 × $10) + (50 × $12) = 1,000 + 600 = **$1,600**
+Closing stock = (50 × $12) + (100 × $14) = 600 + 1,400 = **$2,000**
+**Gross profit = 3,000 − 1,600 = $1,400**
+
+**LIFO** (newest sold first): COGS = (100 × $14) + (50 × $12) = 1,400 + 600 = **$2,000**
+Closing stock = (50 × $12) + (100 × $10) = 600 + 1,000 = **$1,600**
+**Gross profit = 3,000 − 2,000 = $1,000**
+
+**Weighted average**: $3,600 ÷ 300 units = **$12 per unit**
+COGS = 150 × 12 = **$1,800** → **Gross profit = $1,200**
+
+**Conclusion**: With **rising** costs, **FIFO reports the higher profit** ($1,400) — chosen to impress investors. **LIFO reports the lower profit** ($1,000) — chosen to reduce tax. Weighted average sits between the two. Note COGS + closing stock = $3,600 in every method: the total cost is the same, only its *allocation* differs.
 
 **EOQ (Economic Order Quantity)**: the optimal order quantity that **minimises total inventory costs** — balancing **ordering costs** (which fall as you order less often in bigger batches) against **holding costs** (which rise as you store more).
 
