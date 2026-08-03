@@ -27,6 +27,12 @@ Role, outsourcing and stakeholders, influences, the legal framework, **the HR cy
 ### 5. [[Case_Studies]]
 Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analysis and model answers.
 
+### 6. [[Confusing_Pairs]]
+⚠️ **Drill this before every exam.** Every "terms students mix up" pair from all four topics, in one place, with the single distinguishing tell for each. Opens with the **eight pairs you have actually got wrong** in trials, and closes with a 40-item self-test and an MCQ reading method.
+
+### 7. [[Trial_Practice_Killara_2022]]
+Marked attempt at the Killara 2022 trial (**16/20 MCQ · 29.5/40 short answer**). Full MCQ answer key with explanations for the four missed, model answers for every short-answer part that dropped marks, the **Jumbo Movies business report** (699 words, Section III), and the Section III report template.
+
 ---
 
 ## HSC Exam Structure
