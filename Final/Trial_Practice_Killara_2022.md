@@ -19,9 +19,9 @@ aliases:
 
 # Killara 2022 Trial — Marked Paper and Model Answers
 
-> **Result: Section I 16/20 · Section II 29.5/40 · Running total 45.5/60 (76%)**
-> Sections III and IV not attempted. Model report for Q25 included below.
-> Theory: [[Operations]] | [[Marketing]] | [[Finance_Management]] | [[Human_Resources]]
+> ✅ **TEACHER-MARKED.** Section I **16/20** · Section II **35/40** · Section III **16–17/20**
+> **Total 67–68/80 (84%)**
+> Theory: [[Operations]] | [[Marketing]] | [[Finance_Management]] | [[Human_Resources]] · Drill: [[Confusing_Pairs]]
 
 ---
 
@@ -56,16 +56,41 @@ Correct is **(B) Volume**. "Produces **standardised** steel bars" = high volume,
 
 ---
 
-## 2. Section II — Short Answer · 29.5/40
+## 2. Section II — Short Answer · 35/40 *(teacher-marked)*
 
-| Q | Mark | | Q | Mark |
-|---|---|---|---|---|
-| 21(a) | 1.5/2 | | 23(a) | **2/2** |
-| 21(b) | 3/4 | | 23(b) | 3/4 |
-| 21(c) | 4/4 | | 23(c) | 2.5/4 |
-| 22(a) | **2/2** | | 24(a) | **2/2** |
-| 22(b) | 2.5/4 | | 24(b) | 2/4 |
-| 22(c) | 3/4 | | 24(c) | 2/4 |
+| Q | Mark | Teacher's margin note |
+|---|---|---|
+| 21(a) | **2/2** | — |
+| 21(b) | **4/4** | "reducing lead time" ✓ |
+| 21(c) | 3/4 | *"how? better to link to more satisfied customers or reduced costs"* |
+| 22(a) | **2/2** | — |
+| 22(b) | 3/4 | *"flow?"* · *"not sure what you mean"* |
+| 22(c) | 3/4 | *"…to meet market needs"* |
+| 23(a) | 1/2 | **reason (i) crossed out** |
+| 23(b) | **4/4** | — |
+| 23(c) | 3/4 | *"not necessarily"* — the recession detour |
+| 24(a) | **2/2** | — |
+| 24(b) | **4/4** | ✓ throughout |
+| 24(c) | **4/4** | ✓ throughout |
+
+### ⚠️ Two hard lessons from the marked script
+
+**1. "Identify TWO" means two *distinct* reasons.**
+Reason (i) was crossed out entirely in 23(a). "Cost saving" and "time saving" are effectively **the same reason stated twice**, and the induction-training claim is wrong — the outsourcing provider still runs induction. Pick reasons from genuinely different categories:
+
+| Valid distinct reasons for outsourcing HR |
+|---|
+| **Cost reduction** — avoids maintaining an in-house HR department |
+| **Access to specialist expertise** — external providers hold current legal and industrial relations knowledge |
+| **Allows focus on core business** — management attention redirected to revenue-generating activity |
+| **Scalability** — capacity flexes with business need without hiring |
+
+**2. End on a tangible outcome, not a syllabus category.**
+The 21(c) model closed on *"the performance objectives of quality, dependability and cost are met."* That is abstract. The teacher wants the **business consequence**:
+
+> …ensuring fewer defective products reach customers, which **reduces warranty replacement costs and restores customer satisfaction**.
+
+Applies to every Operations answer. Name the concrete benefit, then the syllabus term — not the term alone.
 
 ### The three patterns costing marks
 
@@ -97,9 +122,17 @@ Correct is **(B) Volume**. "Produces **standardised** steel bars" = high volume,
 
 ### 21(c) · Explain why controls are important in the operations process · 4 marks
 
-> **Controls** in the operations process involve comparing **actual performance against planned performance** using key performance indicators such as defect rates, lead times and warranty claims, then investigating the **variance** and taking **corrective action**. Controls are important because they convert monitoring into improvement: measurement alone identifies a problem, but control resolves it. For TWG, if warranty claims are targeted at 2% but reach 7%, control would trigger an investigation of the transformation process, potentially revealing inadequate quality assurance at the assembly stage. Controls also prevent minor variances escalating into systemic failure, as detecting a defect during production costs substantially less than replacing products under warranty and avoids reputational damage. Consequently, controls ensure the performance objectives of **quality**, **dependability** and **cost** are met, restoring TWG's competitive position through **product differentiation**.
+> ⚠️ **This scored 3/4 as originally written.** The corrected final sentence is below.
+
+> **Controls** in the operations process involve comparing **actual performance against planned performance** using key performance indicators such as defect rates, lead times and warranty claims, then investigating the **variance** and taking **corrective action**. Controls are important because they convert monitoring into improvement: measurement alone identifies a problem, but control resolves it. For TWG, if warranty claims are targeted at 2% but reach 7%, control would trigger an investigation of the transformation process, potentially revealing inadequate quality assurance at the assembly stage. Controls also prevent minor variances escalating into systemic failure, as detecting a defect during production costs substantially less than replacing products under warranty. Consequently, controls ensure **fewer defective appliances reach customers, reducing warranty replacement costs and restoring the customer satisfaction TWG is currently losing** — achieving the performance objectives of **quality** and **dependability**, and enabling **product differentiation**.
+
+| | Original ending (3/4) | Corrected ending (4/4) |
+|---|---|---|
+| Closes on | "the performance objectives of quality, dependability and cost are met" | "fewer defective appliances reach customers, reducing warranty replacement costs and restoring customer satisfaction" |
+| Why | Names the **syllabus category** | Names the **business outcome**, then the category |
 
 > **The words markers look for:** *variance* and *corrective action*. Inventing a benchmark (2% vs 7%) shows you understand control needs something to compare against.
+> **The mark most people drop:** ending on abstraction. Always finish with what actually changes for the business — customers retained, costs reduced, orders delivered on time.
 
 ### 22(a) · Outline ONE factor influencing consumer choice · 2 marks
 
@@ -195,7 +228,9 @@ Review revealed: wet and slippery floors · run down environment and uniforms ·
 
 Required: describe the role of operations management · demonstrate how legal regulation and CSR influence operations · recommend TWO HR strategies.
 
-> **699 words. Executive summary, three body sections, conclusion.** Matches the structure of the full-marks Apple finance report in the Brain vault.
+> ✅ **Teacher-marked 16–17/20.** Margin note beside the legal and CSR section: **"great paragraphs."**
+> Marks lost for combining the two HR strategies into one section. Teacher: *"Do as 2 separate paragraphs, 2 reasons for each"* · *"link to HR"* · *"if you did the HR strategies separately you would get 18/20."*
+> **The version below is corrected.** ~780 words. If short on time, trim the CSR social examples rather than the HR section.
 
 ### EXECUTIVE SUMMARY
 
@@ -209,9 +244,13 @@ Operations management involves the transformation of inputs into outputs, and fo
 
 Under the Work Health and Safety Act, Jumbo Movies owes a duty of care to employees and customers, and floors that are often wet and slippery constitute a direct breach, exposing the business to workers compensation claims, public liability claims and regulatory penalties. Operations must therefore build compliance into its processes through scheduled cleaning between sessions, hazard signage and staff safety training, while the Fair Work Act and National Employment Standards require that employees receive their entitled breaks, meaning rostering must be redesigned. Although compliance raises operating costs, a single serious injury claim would cost far more. Corporate social responsibility requires the business to move beyond this legal minimum, considering its impact on people, the community and the environment, and is voluntary and reputational rather than mandatory. As a cinema consumes substantial electricity through projection and air conditioning, Jumbo Movies could install laser projectors and LED lighting, eliminate single use plastics at the candy bar and introduce recycling. Although these initiatives raise short term costs and create tension with the profit objective, they support the triple bottom line and differentiate the business to consumers under 30, the very segment being lost to streaming.
 
-### RECOMMENDED HUMAN RESOURCE STRATEGIES
+### RECOMMENDATION ONE — TRAINING AND DEVELOPMENT
 
-It is firstly recommended that Jumbo Movies implement a structured training and development program, which equips employees with the skills required for current and future roles. The review identifies regular ticketing machine errors and employee dissatisfaction with the training received, indicating the technology was introduced without adequate skill development, so on the job training on the ticketing system combined with customer service training would reduce errors and improve the performance objectives of quality and speed. It is secondly recommended that the business introduce monetary and non monetary rewards to address low morale. Non monetary rewards should be prioritised, including guaranteed rostered lunch breaks, flexible rostering around peak demand, new uniforms and staff recognition, which address the complaints raised in the review at minimal cost, while monetary rewards should be linked to performance through performance based pay such as a bonus tied to confectionery revenue. Together these strategies reduce absenteeism and staff turnover, both key indicators of human resource effectiveness, and improve the service experience that differentiates the cinema from home viewing.
+It is recommended that Jumbo Movies implement a structured training and development program, a human resource strategy within the **development** stage of the HR cycle. The first reason is that it directly addresses the errors identified in the review. Employees are dissatisfied with the training received on the new ticketing machines and regular errors are occurring, indicating the technology was introduced without adequate skill development, so on the job training combined with customer service training would reduce these errors and improve the performance objectives of quality and speed. The second reason is retention. Employees who are supported to develop are more motivated and less likely to leave, reducing **staff turnover**, a key indicator of human resource effectiveness, which lowers recruitment and induction costs and contributes directly to the 20% profit objective.
+
+### RECOMMENDATION TWO — REWARDS
+
+It is secondly recommended that Jumbo Movies introduce a combination of monetary and non monetary rewards, a **maintenance** strategy within the HR cycle. The first reason is that the review identifies clear sources of dissatisfaction that cost almost nothing to resolve. Guaranteed rostered lunch breaks, flexible rostering around peak demand, new uniforms and formal staff recognition address the complaints raised at minimal expense. The second reason is alignment. Monetary rewards linked to performance, such as a bonus tied to confectionery revenue per customer, align employee behaviour with the owners' profit objective. Together these reduce **absenteeism** and **staff turnover**, and produce the motivated, well presented workforce on which the cinema's service differentiation depends.
 
 ### CONCLUSION
 
@@ -238,17 +277,32 @@ The structure that earns the "form of a business report" criterion:
 
 ```
 EXECUTIVE SUMMARY        who the business is, what the report covers,
-                         name the recommendation up front
+                         name the recommendations up front
 
 BODY SECTION 1           one heading per bullet in the question
 BODY SECTION 2           judgement-first topic sentence
-BODY SECTION 3           stimulus detail as evidence
+                         stimulus detail as evidence
                          "Therefore..." closer
 
-CONCLUSION               restate findings + the recommendation + the objective
+RECOMMENDATION ONE       ← ONE HEADING PER RECOMMENDATION
+RECOMMENDATION TWO         never combine them
+
+CONCLUSION               restate findings + the recommendations + the objective
 ```
 
-**Word budget:** ~700 words, ~35 minutes. Roughly 20 words a minute handwritten.
+> ⚠️ **The rule that cost marks here:** if the question says *"Recommend TWO strategies"*, that is **two separate headed paragraphs**, each with **two reasons**, each explicitly named as a strategy of the relevant business function. Combining them reads as one recommendation and caps the mark.
+
+**Each recommendation paragraph:**
+
+```
+1  NAME       It is recommended that [BUSINESS] implement [STRATEGY],
+              a [FUNCTION] strategy within [SYLLABUS CATEGORY].
+2  REASON 1   The first reason is [X]. [STIMULUS EVIDENCE].
+3  REASON 2   The second reason is [Y]. [EFFECT + INDICATOR].
+4  LINK       …contributing directly to [THE STATED OBJECTIVE].
+```
+
+**Word budget:** 750–800 words, ~35 minutes. Roughly 20 words a minute handwritten.
 
 ---
 
