@@ -18,6 +18,20 @@ aliases:
 
 # Human Resources — HSC Final Notes
 
+> 🚨 **TRIAL EXAM SCOPE — 5 August 2026**
+> The notification states: **"HR Strategies and Effectiveness Indicators will not be assessed."**
+>
+> | Section | Status |
+> |---|---|
+> | **§1 Role of HRM** | ✅ **IN** |
+> | **§2 Influences on HR** | ✅ **IN** |
+> | **§3 Processes — the HR cycle** | ✅ **IN** |
+> | §4 Human Resource Strategies | ❌ **OUT** |
+> | §5 Motivation Theories | ❌ **OUT** *(sits under strategies)* |
+> | §6 Effectiveness Indicators | ❌ **OUT** |
+>
+> **Revise §1 to §3 only.** That is roughly **half** the module. Do not spend time on leadership style, job design, recruitment, training and development, performance management, rewards, global HR, workplace disputes, corporate culture, benchmarking, staff turnover, absenteeism, accidents or levels of disputation.
+
 > **Module: Human Resources** | Complete revision document for the HSC exam.
 > Structured to the four syllabus sections: Role → Influences → Processes → Strategies.
 

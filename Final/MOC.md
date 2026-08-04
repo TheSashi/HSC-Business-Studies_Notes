@@ -27,6 +27,9 @@ Role, outsourcing and stakeholders, influences, the legal framework, **the HR cy
 ### 5. [[Case_Studies]]
 Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analysis and model answers.
 
+### 5a. [[Apple_Stats_Sheet]]
+🍎 **Every Apple figure you can quote, with its year.** Two clean datasets (FY2020–2023 from the class PowerPoint, FY2024–2025 from your assessment), full income statement, cash flow statement and ratio tables, plus operations, marketing and influences. Closes with **the twelve to memorise**.
+
 ### 6. [[Section_III_Business_Report]]
 📋 **How to write the business report.** Marking criteria, the heading trick, executive summary formula, recommendation shape, and both worked examples — the teacher-marked Jumbo Movies report and your full-marks Apple finance report.
 
@@ -41,7 +44,27 @@ Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analy
 
 ---
 
-## HSC Exam Structure
+## 🚨 Trial Exam — Wednesday 5 August 2026, 8:45–11:50am
+
+**100 marks · 30% weighting · 3 hours + 5 min reading · ALL sections compulsory**
+
+| Section | Marks | Format | Suggested time |
+|---|---|---|---|
+| **I** Multiple choice | 20 | 20 × 1 mark | 30 min |
+| **II** Short answer | 40 | Multi-part questions | 70 min |
+| **III** Extended response — **stimulus** | 20 | **Business report** → [[Section_III_Business_Report]] | 40 min |
+| **IV** Extended response — **case study** | 20 | **Essay** → [[Section_IV_Extended_Response]] | 40 min |
+
+**Topics:** Operations · Marketing · Finance · HR
+
+> ❌ **NOT ASSESSED: HR Strategies and HR Effectiveness Indicators.**
+> Revise [[Human_Resources]] **§1–§3 only** — Role, Influences, Processes (the HR cycle). Skip §4, §5 and §6.
+
+> **Section IV is a case study question** — bring [[Apple_Stats_Sheet]] figures. Every stat needs a year.
+
+---
+
+## HSC Exam Structure (real HSC, for reference)
 
 | Section | Marks | Time | Format |
 |---|---|---|---|
