@@ -291,12 +291,67 @@ Records **actual** cash movements over a period. A **cash flow budget**, by cont
 #### Income Statement (Revenue Statement / Profit and Loss)
 
 ```
-Sales
-Less: Cost of Goods Sold  (Opening Stock + Purchases − Closing Stock)
-= Gross Profit
-Less: Expenses
-= Net Profit
+        Sales
+Less:   Sales Returns
+   =    NET SALES
+
+Less:   Cost of Goods Sold
+   =    GROSS PROFIT
+
+Less:   Expenses  (selling + administrative + financial)
+   =    NET PROFIT
 ```
+
+> **The whole statement is two subtractions.**
+> Sales − COGS = **Gross Profit**. Gross Profit − Expenses = **Net Profit**.
+
+**Cost of Goods Sold** is itself a calculation:
+
+```
+COGS = Opening Stock + Purchases − Closing Stock
+```
+
+> **Why closing stock is subtracted:** stock still sitting in the warehouse wasn't sold, so it isn't a cost of goods *sold*. It carries forward as next period's opening stock.
+
+**The three expense categories** — you may be asked to classify these:
+
+| Category | What goes in it |
+|---|---|
+| **Selling** | Advertising, sales staff wages and commission, delivery to customers |
+| **Administrative** | Office wages, rent, electricity, insurance, stationery, depreciation |
+| **Financial** | Interest on loans, bank fees, discounts given, bad debts |
+
+##### Worked example — building a revenue statement from scratch
+
+> **Given**: Sales $620,000 | Sales returns $20,000 | Opening stock $60,000 | Purchases $310,000 | Closing stock $70,000 | Selling expenses $55,000 | Administrative expenses $50,000 | Financial expenses $15,000
+
+| Step | Working | Result |
+|---|---|---|
+| Net Sales | 620,000 − 20,000 | **$600,000** |
+| COGS | 60,000 + 310,000 − 70,000 | **$300,000** |
+| **Gross Profit** | 600,000 − 300,000 | **$300,000** |
+| Total Expenses | 55,000 + 50,000 + 15,000 | **$120,000** |
+| **Net Profit** | 300,000 − 120,000 | **$180,000** |
+
+Then the ratios follow straight off it:
+
+- **Gross Profit Ratio** = (300,000 ÷ 600,000) × 100 = **50%**
+- **Net Profit Ratio** = (180,000 ÷ 600,000) × 100 = **30%**
+- **Expense Ratio** = (120,000 ÷ 600,000) × 100 = **20%**
+
+> **Check:** Gross Profit Ratio − Expense Ratio = Net Profit Ratio. 50 − 20 = 30 ✅
+> Use this to catch arithmetic errors in the exam in about five seconds.
+
+##### Four traps in these calculations
+
+| Trap | The fix |
+|---|---|
+| Using **Sales** instead of **Net Sales** as the denominator | If the question gives sales returns, you must deduct them first. Every ratio then uses **net sales** |
+| **Adding** closing stock in COGS | It's **minus**. Opening **plus**, closing **minus** |
+| Dividing profit ratios by **Gross Profit** | The denominator for gross profit ratio, net profit ratio *and* expense ratio is always **sales** |
+| Forgetting **× 100** and the **%** sign | These three are percentages. Current ratio and gearing are **ratios** written `2:1` — no percentage |
+
+> **Net Profit vs Return on Owners' Equity.** Both use net profit on top. Net profit ratio divides by **sales** (how efficiently the business converts revenue into profit). ROE divides by **owners' equity** (what the owners get back on what they put in). Different question, same numerator.
 
 #### Balance Sheet
 

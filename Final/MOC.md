@@ -111,10 +111,14 @@ CASH FLOW STATEMENT
 
 INCOME STATEMENT
   Sales
+  Less Sales Returns
+  = NET SALES
   Less COGS  (Opening Stock + Purchases - Closing Stock)
-  = Gross Profit
-  Less Expenses
-  = Net Profit
+  = GROSS PROFIT
+  Less Expenses  (selling + administrative + financial)
+  = NET PROFIT
+
+  Check:  Gross Profit Ratio - Expense Ratio = Net Profit Ratio
 
 BALANCE SHEET
   Owners' Equity = Assets (Current + Non-Current) - Liabilities (Current + Non-Current)
