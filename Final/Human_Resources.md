@@ -18,19 +18,18 @@ aliases:
 
 # Human Resources — HSC Final Notes
 
-> 🚨 **TRIAL EXAM SCOPE — 5 August 2026**
-> The notification states: **"HR Strategies and Effectiveness Indicators will not be assessed."**
+> ✅ **HSC SCOPE — everything is examinable.**
+> The **trial** (5 Aug 2026) excluded HR Strategies and Effectiveness Indicators. **That exclusion has expired.** The HSC on **Monday 26 October** covers the full module.
 >
-> | Section | Status |
+> **§4 and §6 are now back in scope**, and both were rewritten from the three teacher documents added on 2 September:
+>
+> | Document | Feeds |
 > |---|---|
-> | **§1 Role of HRM** | ✅ **IN** |
-> | **§2 Influences on HR** | ✅ **IN** |
-> | **§3 Processes — the HR cycle** | ✅ **IN** |
-> | §4 Human Resource Strategies | ❌ **OUT** |
-> | §5 Motivation Theories | ❌ **OUT** *(sits under strategies)* |
-> | §6 Effectiveness Indicators | ❌ **OUT** |
+> | *HR Strategies — Leadership Style, Job Design, Recruitment* | §4.1–4.3 |
+> | *HR Strategies — Training and Development, Performance Management, Workplace Disputes and Global HR* | §4.4–4.8 |
+> | *Strategies and Indicators Summary* | §6.2 — the strategy → indicator map |
 >
-> **Revise §1 to §3 only.** That is roughly **half** the module. Do not spend time on leadership style, job design, recruitment, training and development, performance management, rewards, global HR, workplace disputes, corporate culture, benchmarking, staff turnover, absenteeism, accidents or levels of disputation.
+> ⚠️ **Your teacher defines administrative vs developmental performance management differently from the standard textbook.** See §4.5. **Use your teacher's version** — see [[Confusing_Pairs]].
 
 > **Module: Human Resources** | Complete revision document for the HSC exam.
 > Structured to the four syllabus sections: Role → Influences → Processes → Strategies.
@@ -360,72 +359,249 @@ Staff are maintained by providing working conditions and a work environment that
 
 ## 4. Human Resource Strategies
 
+> Rewritten from your teacher's two HR Strategies documents (2 Sept 2026). Each strategy is paired with the indicators that measure it in **§6.2**.
+
 ### 4.1 Leadership Style
 
-| Style | Description | Best suited to |
+> **Leadership style is the manner and approach in which leaders of a business interact with staff.** Leaders make decisions, develop strategies for the development of the business, and interact with employees.
+
+**Built on three factors:**
+
+```
+1. Providing staff with DIRECTION
+2. Implementing plans and ORGANISING staff
+3. MOTIVATING staff
+```
+
+**The eight styles:**
+
+| Style | How it works | Key feature |
 |---|---|---|
-| **Autocratic** | Manager makes decisions alone and directs | Crisis, low-skill or safety-critical tasks |
-| **Participative / democratic** | Employees involved in decisions | Skilled, motivated workforces; complex problems |
-| **Laissez-faire** | Employees have autonomy over how work is done | Highly expert, self-directed professionals |
+| **Authoritarian** *(transactional / autocratic)* | Managers are responsible for **telling employees what they want done and how** to accomplish the task | Employees **cannot contribute** to decision-making · decisions made **quickly** |
+| **Participative / democratic** | The leader **includes one or more employees** in the decision-making process | Employees consulted on **what** to do and **how**; encouraged to become **empowered**. **The final decision is still the leader's** |
+| **Delegative / laissez-faire** | The leader **allows employees to make decisions** | Requires employees with the **relevant knowledge and skills**, and a manager who **trusts** their ability |
+| **Pacesetting** | The leader **sets an example** of high performance, high pace and high quality; the team is expected to follow | **Values results above all.** Good for short-term results, but **detrimental to engagement and motivation long term** |
+| **Affiliative** | Puts **people first** — creating a harmonious environment and building emotional bonds | Requires **empathy** and the ability to build relationships across communication styles |
+| **Coaching** | Characterised by **collaboration, support and guidance** | Focused on **bringing out the best** in the team by guiding them through goals and obstacles |
+| **Coercive** | A **command and control** style | Relies on **forcing** people to do what they are told, whether they want to or not |
+| **Transformational** | Works with followers **beyond their immediate self-interest** to identify needed change | Creates a **vision**, guides change through **influence and inspiration**, and executes it alongside committed members |
+
+> **Confusing pair — Authoritarian vs Coercive**
+> **Authoritarian** = the leader **decides and directs**. Employees don't participate, but they aren't compelled.
+> **Coercive** = the leader **forces compliance**, "whether they want it or not."
+> Autocratic is about *who decides*. Coercive is about *how compliance is obtained*.
+
+> **Confusing pair — Pacesetting vs Transformational**
+> **Pacesetting** models high performance and expects imitation — **values results more than anything**, and burns people out.
+> **Transformational** creates a **shared vision** and moves people beyond self-interest.
+> Both are demanding. One drives *through* people, the other *with* them.
 
 ### 4.2 Job Design
 
-| Approach | Definition |
+> **Job design is where managers develop and specify the work activities of individuals or groups.** It is the process of determining the types of tasks an employee needs to complete, and of identifying the **skills, knowledge, personal traits, duties and responsibilities** required to perform a position.
+
+**Effective job design seeks to meet the needs of both the business and the employee** — the task must allow the employee to work toward the objectives.
+
+**Job design involves:**
+
+- Creating a **job description**
+- **Personal specifications**
+- Strategies that improve employee **motivation and productivity**
+
+| Concept | Definition |
 |---|---|
-| **General** | Employees perform a **variety** of tasks — job enlargement, enrichment and rotation. Increases motivation and flexibility |
-| **Specific** | Employees perform a **narrow, repetitive** set of tasks. Increases efficiency and speed but risks boredom and turnover |
+| **Job satisfaction** | The extent to which employees are **satisfied working in their current position** |
+| **Job enrichment** | The extent a business **develops tasks with the abilities of existing staff in mind** — reducing the boredom associated with many types of work |
 
-### 4.3 Recruitment, Training and Development
+**The six job design strategies:**
 
-Covered in §3.1 and §3.2. In strategy questions, emphasise **why** a particular approach was chosen and **what business objective** it serves.
+```
+1. Job rotation                   4. Semi-autonomous work groups
+2. Job enlargement                5. Team structures
+3. Job enrichment                 6. Flexible work structures
+```
 
-### 4.4 Performance Management
+> **Confusing trio — Rotation vs Enlargement vs Enrichment**
+> **Rotation** — moving **between** different jobs. Variety across time.
+> **Enlargement** — **more tasks at the same level**. Horizontal expansion.
+> **Enrichment** — **more responsibility and autonomy**. Vertical expansion, matched to ability.
+> Rotation changes *where*, enlargement changes *how many*, enrichment changes *how demanding*.
 
-Covered in §3.2. Link appraisals to **motivation**, **retention** and **productivity**.
+> **General vs specific job design:** **general** design gives employees a variety of tasks, increasing motivation and flexibility. **Specific** design gives a narrow, repetitive set, increasing efficiency and speed but risking boredom and turnover — which is why **specialised job design often reduces job satisfaction**.
 
-### 4.5 Rewards
+### 4.3 Recruitment
 
-| Dimension | Options |
+> An effective recruitment strategy ensures **the right people are hired to do the right job.**
+
+**The seven consequences of a poor selection process:**
+
+```
+1. Increased training costs
+2. Increased job dissatisfaction
+3. Lower performance
+4. Increased labour turnover
+5. Increased absenteeism, if the staff member feels inadequate for the job
+6. Increased accidents / defect rates
+7. Increased claims of discrimination
+```
+
+> That list is the answer to *"What is the likely outcome of a poor recruitment decision?"* and to *"How does selecting the wrong employee increase costs and reduce productivity?"*
+
+**Internal vs external:** the choice depends on the **type of skills and qualifications needed**, whether current staff already have them, and whether **recruiting is cheaper than training an existing employee**.
+
+| | General skills | Specific skills |
+|---|---|---|
+| **What** | Skills, attitudes and behaviours that are a good **cultural fit** | Skills **required for particular jobs** |
+| **Includes** | Flexibility and versatility · social confidence · positive attitude · motivation · ability to work in a team **or** independently · leadership and decision-making · willingness to learn · ability to work under pressure | Technical and role-specific capability |
+| **Why businesses target them** | Cultural fit and adaptability | **Skill shortages** — filling identified gaps |
+
+### 4.4 Training and Development
+
+> **Crucial to ensuring staff stay motivated, performance goals are met, the possibility of accidents decreases, skill shortages are filled, and staff retention increases.**
+
+**When deciding between developing staff and recruiting, a business considers:**
+
+| Option | |
 |---|---|
-| **Monetary vs non-monetary** | Pay, bonuses, fringe benefits **vs** flexibility, status, autonomy, recognition |
-| **Individual vs group** | Personal commission and bonuses **vs** team-based or profit-sharing rewards |
-| **Performance pay** | Pay linked directly to measured output or achievement of KPIs |
+| Invest further in **in-house training and development** | Retain **experts who retire**, on a part-time basis |
+| **Recruit** staff for specific skills | Retain **women through flexible work structures** |
+| **Share staff** with other firms | **Outsource** functions to specialist firms |
+| **Sponsor overseas migrants** | Build **networks or alliances** with firms holding specialist skills |
 
-> **Trade-off**: Individual rewards drive personal effort but can undermine teamwork. Group rewards build cooperation but allow "free riding".
+> **Confusing pair — Training vs Development**
+> **Training** allows employees to perform their **current** roles more effectively.
+> **Development** prepares them for **future responsibilities and promotion**.
+> Training is about now; development is about next.
 
-### 4.6 Global HR Management
+### 4.5 Performance Management
 
-| Consideration | Detail |
+> **The process of recognising the efforts and contributions of employees to their work.** It is an **ongoing process of communication** between the direct manager and the employee.
+
+**It involves:**
+
+```
+1. Clarification of expectations
+2. Setting employee workplace objectives
+3. Providing feedback
+4. Evaluating employee performance
+```
+
+**The three stages of the cycle:**
+
+| Stage | What happens |
 |---|---|
-| **Costs** | Wage differentials, relocation and expatriate packages, training, compliance in multiple jurisdictions |
-| **Skill supply** | Availability of qualified labour in each market; may drive location decisions |
-| **Cultural** | Differences in communication style, hierarchy, negotiation, working hours and holidays |
-| **Political and legal** | Differing employment law, union power, political stability, minimum standards |
+| **1. Planning** | Expectations and goals developed **by both the employer and the employee** |
+| **2. Checking in** | Managers **regularly observe** performance to provide feedback |
+| **3. Assessment** | **Measuring performance against the objectives** |
 
-### 4.7 Workplace Disputes
+> **Why it is ongoing:** after assessment, **new goals are established, beginning the cycle again.** Performance needs to be continuously monitored, reviewed and improved.
 
-**Causes**: remuneration, working conditions, job security, management practices, working hours, health and safety, political and social issues.
+**The four benefits:**
 
-**Resolution methods:**
+- The employee has an **improved understanding of their role** and what needs to be done
+- The employer can **identify problems earlier**
+- Reviews make the employee **aware of their personal goals**
+- **Identifies areas of development** either needed or requested by the employee
 
-| Method | Definition |
+#### ⚠️ Administrative vs Developmental — use your teacher's definition
+
+| | **Administrative** | **Developmental** |
+|---|---|---|
+| **Your teacher's document** | HR completes **skills audits** of all staff and identifies **training needs**. Assists with **HR planning**. Information kept in an **employee database** | HR **plans and implements training** for staff — both **on the job and off the job** |
+| The generic textbook version | Evaluating output to decide **pay, promotion, retention, termination** | Feedback used to **build skills** |
+
+> **Use your teacher's version.** It's what your school marks against, and it also fits the exam answers better — the Knox trial's Q10 (a business *keeping data* on time spent online, meetings and client feedback) is **administrative** precisely because it is data collection for HR planning.
+>
+> **The tell:** administrative **records and audits**; developmental **plans and delivers**.
+
+### 4.6 Rewards
+
+> **Used to motivate employees and encourage them to work together as a team to achieve common goals.**
+
+**Two axes:**
+
+```
+MONETARY  or  NON-MONETARY
+INDIVIDUAL or  GROUP
+```
+
+**Designing a reward program — for the business:**
+
+| Consideration |
+|---|
+| Business strategy |
+| Economic conditions |
+| Organisational objectives of rewards |
+| Rewards and benefits offered by **competitors** |
+| Relevant **awards and agreements**, minimum employment standards |
+| **Union power** |
+| **Profitability / viability** of the business |
+
+**Designing a reward program — for the individual** *(often called **performance pay**: remuneration distributed according to individual employee performance)*
+
+| Basis | What it covers |
 |---|---|
-| **Negotiation** | Direct discussion between the parties to reach agreement |
-| **Mediation** | A neutral **third party assists** discussion but does **not** impose a decision |
-| **Conciliation** | A third party actively **suggests** solutions; the parties still decide |
-| **Arbitration** | A third party **hears both sides and imposes a binding decision** |
-| **Grievance procedures** | Formal internal steps for raising and resolving complaints |
-| **Common law action** | Court action for breach of contract or negligence |
+| **Performance related** | Incentive plans for performance **above standards or criteria**, bonuses, production-related criteria |
+| **Job related** | Role and level of **responsibility**, scope of supervision, base pay, interpersonal skills, knowledge and skills, experience, **value to company** |
+| **Other** | Group incentives |
 
-> **Confusing trio — Mediation / Conciliation / Arbitration**
-> **Mediation** — the third party *facilitates*; parties decide.
-> **Conciliation** — the third party *suggests*; parties still decide.
-> **Arbitration** — the third party *decides*; the decision is **binding**.
-> Order of increasing third-party power: mediation → conciliation → arbitration.
+> **Individual or team performance pay?** Both, depending on the nature of the work. **Team-based** pay encourages cooperation and communication toward common objectives; **individual** pay recognises outstanding contribution. Using both **prevents excessive competition** while still rewarding individual effort.
 
-**Industrial action**: **strike** (employees stop work), **lockout** (employer prevents employees from working), work-to-rule, overtime ban, picketing. Action is **protected** (lawful) only when taken during bargaining for an enterprise agreement, following the correct procedures.
+> **Why provide both monetary and non-monetary rewards?** Because **employees are motivated by different factors.** Monetary rewards — bonuses, commissions, pay increases — provide financial motivation. Non-monetary rewards — recognition, promotion, flexible working, career development — improve **job satisfaction and loyalty**. *McDonald\'s provides rewards and recognition programs, discounted meals and retail discounts, plus flexible working and career development opportunities.*
 
-### 4.8 Organisational Structures
+### 4.7 Global HR Strategies
+
+> **Globalisation, technological development and HR applications have increased the complexity of managing HR.** High labour costs and skill shortages in Australia have led businesses to operate globally.
+
+**Seven factors to consider before outsourcing globally:**
+
+```
+1. Labour costs                        5. Political stability
+2. Service / product quality           6. Language and cultural differences
+3. Infrastructure requirements         7. Skills and supply of labour overseas
+4. Overseas labour market regulations
+```
+
+**The China example:** countries such as China have factories producing goods at a competitive price, so Australian companies have moved production there because it is cheaper.
+
+| Impact | |
+|---|---|
+| ✅ | **Reduced costs** for the business |
+| ❌ | **Loss of jobs and factory closures** in Australia |
+
+**Australia's skills shortage** is major and will increase. Two strategies used to overcome it:
+
+- The **Temporary Skills Shortage Visa**, allowing businesses to bring people from overseas to fill the shortage
+- **Outsourcing functions overseas** to access people with those skills
+
+### 4.8 Workplace Disputes
+
+> **Disputes occur between employers and employees where their interests are in conflict.** Every business should have a **grievance procedure** to guide employees, employers and unions in resolving one.
+
+**A grievance procedure policy:**
+
+- Provides a **clear outline of the issues**
+- Illustrates the **correct and appropriate processes** when raising a complaint
+- Provides a mechanism for **quick resolution**
+
+**The four resolution steps, in order:**
+
+| # | Method | Who decides |
+|---|---|---|
+| **1** | **Negotiation** — discussion between both parties to resolve the dispute. Unions and employer associations may be involved | **The parties** |
+| **2** | **Mediation** — an **independent party with no ties to either side** assists the parties to reach a settlement | **The parties** |
+| **3** | **Conciliation** — **Fair Work Australia acts as a mediator and offers suggestions** to resolve the problem | **The parties** |
+| **4** | **Arbitration** — the final stage. A **commissioner hears both cases and makes a decision that is legally binding** on both parties | **The commissioner** |
+
+> **Confusing trio — Mediation vs Conciliation vs Arbitration**
+> **Mediation** — the third party **facilitates only**. No suggestions.
+> **Conciliation** — the third party **suggests solutions**. The parties still decide.
+> **Arbitration** — the third party **imposes a binding decision**.
+> Escalating intervention: facilitates → suggests → decides.
+
+> **Overt vs covert industrial action:** **overt** action is visible and deliberate — strikes, work bans, work-to-rule (refusing tasks outside normal duties), lockouts, picket lines. **Covert** action is concealed — **absenteeism**, high turnover, sabotage, deliberate under-performance. Absenteeism appearing as an *indicator* in §6 and as *covert action* here is the same phenomenon read two ways.
+
+### 4.9 Organisational Structures
 
 | Structure | Description | Pros | Cons |
 |---|---|---|---|
@@ -489,19 +665,44 @@ Motivation increases when goals are **specific**, **challenging but achievable**
 
 ## 6. Effectiveness Indicators of Human Resource Management
 
-> **This is how you answer "assess the effectiveness of HR strategies."** Name the indicator, state the direction of change, and explain what it proves.
+> **An effective HR function is one where management and employees work well together in their efforts to achieve the goals of the business.** The effectiveness of that relationship is examined through seven indicators.
 
-| Indicator | What it measures | What a poor result signals |
+### 6.1 The Seven Indicators
+
+| Indicator | Definition | What a poor result signals |
 |---|---|---|
-| **Corporate culture** | Shared values, attitudes and behaviours | Weak alignment, low engagement, resistance to change |
-| **Benchmarking key variables** | Comparing HR metrics against industry best practice | The business is underperforming relative to competitors |
-| **Changes in staff turnover** | Proportion of employees leaving and being replaced | High turnover = poor maintenance, high recruitment and training costs, lost corporate knowledge |
-| **Absenteeism** | Unplanned days away from work | Low morale, stress, bullying, poor conditions, disengagement |
-| **Accidents** | Workplace injury rates | WHS failures — training, supervision or equipment inadequate |
-| **Levels of disputation** | Number and severity of disputes, grievances, industrial action | Breakdown in employee relations and communication |
-| **Worker satisfaction** | Survey results, appraisal feedback, retention of high performers | Poor job design, inadequate rewards, weak leadership |
+| **Corporate culture** | **The culture within an organisation — the values and beliefs within a business.** An effective culture is one that is *believed, demonstrated and acted upon* by both management and employees | A **positive** culture produces happier workers → lower turnover, higher productivity, better customer service, lower absenteeism. A **negative** culture produces less satisfied workers |
+| **Benchmarking key variables** | **The process of measuring an employee's performance against established standards** | If employees repeatedly fail to meet performance goals, management must examine why. Employees are more likely to meet goals where there are effective **appraisal systems, training and development, and reward systems** |
+| **Changes in staff turnover** | **The rate at which employees leave a business** | A high level caused by **voluntary separation** — mainly resignations — indicates **poor employment relations** |
+| **Absenteeism** | **Employees being unable to attend work** for reasons such as illness or family responsibilities | Costly, because the work isn't done — it places additional demands on remaining staff and can cause **greater hostility**. A sharp rise over a short period signals unhappy, unsatisfied workers |
+| **Level of disputation** | The number and severity of disputes in a workplace | **The more disputes, the less effective management is** at the employment relations function. Employers must examine why and rectify the practices causing them |
+| **Accidents** | The **number of accidents per year** | Increases may be due to **lack of training**, or poor workplace health and safety procedures and policies |
+| **Worker satisfaction** | **Whether employees are happy and contented and fulfilling their desires and needs at work** | Satisfied employees work more efficiently and value the organisation they work for |
 
-> **Turnover isn't always bad**: some turnover brings in fresh skills and removes poor performers. What matters is **who** is leaving. Losing high performers is the warning sign.
+> **Turnover isn't automatically bad** — some brings in fresh skills and removes poor performers. What matters is **who** is leaving, and whether the separation was **voluntary**. Losing high performers voluntarily is the warning sign.
+
+### 6.2 Which Indicator Measures Which Strategy
+
+> **Straight from your teacher's *Strategies and Indicators Summary*.** This is the table that answers "evaluate the effectiveness of [strategy]" — it tells you which evidence to cite.
+
+| Strategy | Indicators used to measure it |
+|---|---|
+| **Leadership style** | Corporate culture · Benchmarks · Staff turnover · Absenteeism · Worker satisfaction |
+| **Job design** | Staff turnover · Absenteeism · **Number of accidents** · Worker satisfaction |
+| **Recruitment** | Corporate culture · Benchmarks · Staff turnover · Absenteeism |
+| **Training and development** | Staff turnover · Absenteeism · **Number of accidents** · Corporate culture · Worker satisfaction |
+| **Performance management** | Staff turnover · Absenteeism · Number of accidents · Worker satisfaction |
+| **Rewards** | Staff turnover · Absenteeism · Number of accidents · Worker satisfaction |
+| **Workplace disputes** | Staff turnover · Absenteeism · Worker satisfaction |
+
+**The patterns worth noticing:**
+
+- **Staff turnover and absenteeism measure everything.** If you can only remember two, remember these — they appear against all seven strategies.
+- **Accidents** attach to the strategies that change *how work is done* — job design, training, performance management, rewards. Not to recruitment or leadership.
+- **Corporate culture and benchmarks** attach to the strategies that shape *who is in the business and how they are led* — leadership, recruitment, training.
+- **Workplace disputes is the narrowest** — three indicators, and notably **not** accidents or benchmarks.
+
+> **How to use it in an answer:** *"The effectiveness of the training and development strategy can be measured through **changes in staff turnover** and the **number of accidents**. A reduction in both would indicate the strategy has improved employee capability and workplace safety…"*
 
 ---
 

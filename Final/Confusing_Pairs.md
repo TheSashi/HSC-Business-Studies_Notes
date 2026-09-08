@@ -195,13 +195,26 @@ EFFICIENCY     Expense Ratio     = (Total Expenses / Sales) x 100            low
 | Internal / External recruitment | **Internal** = cheaper, faster, known quantity, but no fresh ideas. **External** = new skills and perspectives, but costly and slower to settle |
 | Employee / Contractor | **Employee** = contract **of** service, business controls how and when, owes leave and super. **Contractor** = contract **for** service, controls own methods, invoices for a result |
 
+### Leadership and job design
+
+| Pair | The tell |
+|---|---|
+| Authoritarian / Coercive leadership | **Authoritarian** = the leader **decides and directs**; employees don't participate. **Coercive** = the leader **forces** compliance, "whether they want it or not." *Who decides* vs *how compliance is obtained* |
+| Participative / Delegative | **Participative** = employees are **consulted**, but **the final decision is still the leader's**. **Delegative (laissez-faire)** = **employees make the decision** |
+| Pacesetting / Transformational | **Pacesetting** models high performance and expects imitation — **values results more than anything**, burns people out. **Transformational** creates a **shared vision** and moves people beyond self-interest |
+| Job rotation / enlargement / enrichment | **Rotation** = moving **between** jobs. **Enlargement** = **more tasks at the same level** (horizontal). **Enrichment** = **more responsibility and autonomy** (vertical) |
+| Job satisfaction / Job enrichment | **Satisfaction** is the **outcome** — how content employees are. **Enrichment** is the **strategy** — designing tasks around existing abilities to reduce boredom |
+| General / Specific skills (recruitment) | **General** = attitudes and behaviours that are a good **cultural fit**. **Specific** = skills **required for particular jobs**, targeted at **skill shortages** |
+
 ### Development and maintenance
 
 | Pair | The tell |
 |---|---|
 | Induction / Training | **Induction** introduces to the **business**. **Training** improves **job performance** |
-| Training / Development | **Training** = the **current** role. **Development** = **future** responsibilities |
-| Administrative / Developmental performance management | **Administrative** = evaluate output to decide pay, promotion, retention, termination. **Developmental** = feedback to build skills |
+| Training / Development | **Training** = the **current** role. **Development** = **future** responsibilities and promotion |
+| **Administrative / Developmental performance management** | ⚠️ **Use your teacher's definition.** **Administrative** = HR completes **skills audits**, identifies training needs, keeps an **employee database** — it **records and audits**. **Developmental** = HR **plans and implements training**, on and off the job — it **plans and delivers** |
+| Monetary / Non-monetary rewards | **Monetary** = bonuses, commissions, pay increases — **financial** motivation. **Non-monetary** = recognition, promotion, flexible working, career development — **satisfaction and loyalty**. Provide both, because **employees are motivated by different factors** |
+| Individual / Group performance pay | **Individual** recognises **outstanding contribution**. **Team-based** encourages **cooperation toward common objectives**. Using both **prevents excessive competition** while still rewarding effort |
 | Monetary / Non-monetary rewards | **Monetary** = cash or cash-equivalent (salary, bonus, performance pay). **Non-monetary** = flexible hours, recognition, leave, career development |
 | Intrinsic / Extrinsic rewards | **Intrinsic** comes from **within** the person (satisfaction). **Extrinsic** is **given** by the business |
 | Piece rate / Commission | **Piece rate** = pay per **unit produced**. **Commission** = pay per **sale** |
@@ -225,7 +238,9 @@ EFFICIENCY     Expense Ratio     = (Total Expenses / Sales) x 100            low
 | Award / Enterprise agreement | **Award** = industry-wide safety net, applies by default. **Enterprise agreement** = workplace-negotiated, must pass the **BOOT** |
 | Enterprise agreement / Common law contract | **Agreement** = collective. **Common law** = individual |
 | NES / Awards | **NES** = 11 legislated minimums for **all** employees. **Awards** = industry-specific, on top |
-| Mediation / Conciliation / Arbitration | **Mediation** facilitates only. **Conciliation** suggests solutions. **Arbitration** imposes a **binding** decision |
+| Negotiation / Mediation / Conciliation / Arbitration | Escalating intervention: **Negotiation** = the parties alone. **Mediation** = a third party **facilitates only**. **Conciliation** = **Fair Work Australia suggests** solutions. **Arbitration** = a commissioner **imposes a legally binding** decision |
+| Overt / Covert industrial action | **Overt** is visible and deliberate — strikes, work bans, work-to-rule, lockouts, picket lines. **Covert** is concealed — **absenteeism**, turnover, sabotage, deliberate under-performance |
+| Work to rule / Work ban | **Work to rule** = workers refuse tasks **outside their normal duties** (e.g. overtime). **Work ban** = workers turn up but **don't perform their normal duties** |
 | Strike / Lockout | **Strike** = employees stop work. **Lockout** = employer shuts them out |
 | EEO / Anti-discrimination | **EEO** requires decisions on **merit** and removal of barriers. **Anti-discrimination** **prohibits** specified conduct |
 | Turnover / Absenteeism | **Turnover** = staff leaving and being replaced. **Absenteeism** = unplanned days off |
