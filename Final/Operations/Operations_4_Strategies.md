@@ -201,6 +201,16 @@ COGS = 150 × 12 = **$1,800** → **Gross profit = $1,200**
 | **Kaizen** | Continuous **incremental** improvement involving all employees; eliminating waste (**muda**) |
 | **Quality circles** | Small groups of employees who meet regularly to identify and solve quality problems |
 
+> ⭐ **The three-way tell — this was 2025 HSC Q8 and you lost it.**
+>
+> | If the stem says… | The answer is |
+> |---|---|
+> | **Inspecting, checking, testing, detecting faults** | **Control** |
+> | **A system, a standard, certification, preventing defects, "right the first time", ISO 9000** | **Assurance** |
+> | **"Ongoing commitment", continuous, never-ending, always getting better, Kaizen** | **Improvement** |
+>
+> 2025 HSC Q8 read *"demonstrates an **ongoing commitment** to make its operations more efficient and effective"* → **Improvement**. You answered Assurance. Assurance is something you **install once and certify**; improvement is something you **keep doing**.
+
 ---
 
 ## 8. Overcoming Resistance to Change

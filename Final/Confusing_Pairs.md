@@ -26,12 +26,14 @@ aliases:
 
 ---
 
-## 1. ⚠️ The Eight You Have Actually Got Wrong
+## 1. ⚠️ The Ten You Have Actually Got Wrong
 
 > Drill these first. Every one cost a real mark.
 
 | Paper | Pair | The tell |
 |---|---|---|
+| **2025 HSC 8** | **Assurance / Improvement** | ⭐ **"Ongoing commitment" = IMPROVEMENT.** Assurance is a **system that prevents** defects, certified against a standard (ISO 9000) — it's a *thing you set up*. Improvement is a **continuous effort to get better** — it never finishes. If the stem says *ongoing*, *continuous*, *always looking to*, it is **improvement** |
+| **2025 HSC 19** | **Operations sequence — which end is the input** | ⭐ Every sequence option must read **INPUT → TRANSFORMATION → OUTPUT**. Label each of the three terms before choosing. *Product* and *customer service* are **outputs**; *materials, information, facilities, human resources, customers* are **inputs**; *task design, control, improvement* are **transformation** |
 | Killara 4 | Resource / Industrial market | **Resource** = where raw materials are **sold** (farmers, miners). **Industrial** = businesses that **buy** inputs to make other goods. Farmers *operate in* resource, *sell to* industrial |
 | Killara 6 | Unfair dismissal / Performance appraisal | **Dismissal** ends employment. **Appraisal** evaluates it. An appraisal is not a termination |
 | Killara 10 | Common law contract / Enterprise agreement | **Common law** = individually negotiated, one person. **Enterprise agreement** = collective, must pass the **BOOT** |

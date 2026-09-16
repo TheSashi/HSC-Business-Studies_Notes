@@ -28,6 +28,27 @@ aliases:
 INPUTS  →  TRANSFORMATION PROCESSES  →  OUTPUTS
 ```
 
+> ⭐ **The sequence MCQ — 2025 HSC Q19, and you lost it.**
+>
+> *"Which of the following is the correct sequence for its operations process?"* Every option is three terms. **Do not read them as a story — label each term first**, then check the order reads input → transformation → output.
+>
+> | Label | Terms that belong here |
+> |---|---|
+> | **INPUT** | Materials · information · **customers** · human resources · facilities |
+> | **TRANSFORMATION** | Volume/variety/variation/visibility · sequencing and scheduling · technology · **task design** · process layout · monitoring · **control** · improvement |
+> | **OUTPUT** | **Customer service** · warranties |
+>
+> **Worked on the real question:**
+>
+> | Option | Labels | Verdict |
+> |---|---|---|
+> | A. Product → task design → materials | output → transformation → **input** | ❌ **backwards** — you chose this |
+> | B. Facilities → control → customer service | **input → transformation → output** | ✅ **correct** |
+> | C. Information → warranties → improvement | input → **output** → transformation | ❌ out of order |
+> | D. Human resources → planning → customers | input → ? → **input** | ❌ ends on an input |
+>
+> **The trap:** "Product" sounds like a starting point because it's what the business makes. It is the **finished good** — an output. And **customers are an INPUT** (a transformed resource), not the end of the line.
+
 ---
 
 ## 1. Inputs
