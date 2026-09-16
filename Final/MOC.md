@@ -6,23 +6,80 @@ syllabus_ref: HSC Business Studies — All Topics
 
 # Business Studies — Final Notes
 
-> **Exam-ready** revision material for HSC Business Studies. Each topic note follows the syllabus structure: **Role → Influences → Processes → Strategies**, and ends with worked examples, a confusing-terms glossary and a definitions table. For raw research, see the Brain vault.
+> **Exam-ready** revision material for HSC Business Studies. Each module is a folder split by syllabus section — **Role → Influences → Processes → Strategies** — with a `_FULL` note holding the whole module plus worked examples, case studies, confusing pairs and a definitions table. For raw research, see the Brain vault.
+
+> ℹ️ `Marketing.md`, `Operations.md`, `Finance_Management.md` and `Human_Resources.md` at the top level are **redirect stubs** left behind so old links still work. Delete them whenever you like.
 
 ---
 
-## Topics
+## The Four Modules
 
-### 1. [[Operations]]
-Role and strategic role (cost leadership, differentiation), influences, transformation processes and the 4 Vs, technology and layout, monitoring and control, **sequencing and scheduling with a worked critical path analysis**, performance objectives, supply chain, outsourcing, **inventory management vs valuation with worked FIFO/LIFO**, quality management, resistance to change, global factors.
+> **Every module is one folder with five files.** The four numbered files split the module by syllabus section — **Role → Influences → Processes → Strategies**. The `_FULL` file is the same content in one document, plus the case studies, essay scaffolds and glossaries.
+>
+> Revising one dot point? Open the numbered file. Revising the whole topic? Open `_FULL`.
 
-### 2. [[Marketing]]
-Role and approaches, influences on customer choice, ethical and legal influences, the marketing process, SWOT and product life cycle, market research, objectives and target markets, the 4 Ps and extended 3 Ps, e-marketing, global marketing strategies, and Section IV essay structures.
+### 1. ⚙️ Operations — `Operations/`
 
-### 3. [[Finance_Management]]
-Role and the five objectives, sources of finance (internal, debt, equity), financial institutions, government and global influences, planning and implementing, **the three financial statements**, the **seven ratios with worked calculations**, limitations of financial reports, ethical issues, and the four strategy families including **global financial management and hedging**.
+| | | |
+|---|---|---|
+| 📕 | [[Operations_FULL]] | Everything, plus the Apple case study, essay structures, pitfalls and glossary |
+| ① | [[Operations_1_Role]] | Transformation and value adding · cost leadership vs differentiation · goods vs services |
+| ② | [[Operations_2_Influences]] | The seven influences · **the ten Acts, what each requires and who enforces it** · CSR |
+| ③ | [[Operations_3_Processes]] | Inputs · the 4 Vs · layout · monitoring and control · **worked critical path analysis and Gantt** |
+| ④ | [[Operations_4_Strategies]] | Performance objectives · supply chain · outsourcing · **JIT/JIC vs worked FIFO/LIFO** · quality · change · global |
 
-### 4. [[Human_Resources]]
-Role, outsourcing and stakeholders, influences, the legal framework, **the HR cycle (acquisition → development → maintenance → separation)**, HR strategies, motivation theories, dispute resolution, organisational structures, and the **effectiveness indicators of HRM**.
+### 2. 📣 Marketing — `Marketing/`
+
+| | | |
+|---|---|---|
+| 📕 | [[Marketing_FULL]] | Everything, plus the McDonald's case study, worked HSC paragraphs and glossary |
+| ① | [[Marketing_1_Role]] | Strategic role · marketing plan · approaches · types of markets and segments |
+| ② | [[Marketing_2_Influences]] | Customer choice (psychological, sociocultural, economic, government) · ethics · **consumer law and the ACCC** |
+| ③ | [[Marketing_3_Processes]] | The six steps · **SWOT and product life cycle** · market research · objectives · target markets · positioning |
+| ④ | [[Marketing_4_Strategies]] | **The 4 Ps and extended 3 Ps** · e-marketing · global marketing · Section IV structures |
+
+### 3. 💰 Finance — `Finance/`
+
+| | | |
+|---|---|---|
+| 📕 | [[Finance_FULL]] | Everything, plus the ratio scaffold, pitfalls and glossary |
+| ① | [[Finance_1_Role]] | Strategic role · **the five objectives** · interdependence |
+| ② | [[Finance_2_Influences]] | **Sources of finance** (internal, debt, equity) · institutions · primary vs secondary market · government · global |
+| ③ | [[Finance_3_Processes]] | Planning · debt vs equity · matching principle · **the three statements** · **the seven ratios worked** · limitations · ethics |
+| ④ | [[Finance_4_Strategies]] | Cash flow · working capital · profitability and **break-even** · **global finance, hedging and derivatives** |
+
+### 4. 👥 Human Resources — `Human_Resources/`
+
+| | | |
+|---|---|---|
+| 📕 | [[Human_Resources_FULL]] | Everything, plus answer structures, pitfalls and glossary |
+| ① | [[Human_Resources_1_Role]] | Strategic role · outsourcing and contractors · stakeholders |
+| ② | [[Human_Resources_2_Influences]] | The six influences · **the legal framework** · awards vs agreements · termination and unfair dismissal |
+| ③ | [[Human_Resources_3_Processes]] | **The HR cycle** — acquisition → development → maintenance → separation |
+| ④ | [[Human_Resources_4_Strategies]] | The eight strategies · motivation theories · **the seven effectiveness indicators and the strategy → indicator map** |
+
+---
+
+## ✅ Syllabus Check — where each dot point actually sits
+
+> Verified against the **NSW Business Studies Stage 6 Syllabus (2010)**, §10.1–10.4, on **15 September 2026**. If a placement ever looks wrong, this table is the answer.
+
+| Module | ① Role | ② Influences | ③ Processes | ④ Strategies |
+|---|---|---|---|---|
+| **Operations** | Strategic role · goods/services · interdependence | The 7 influences · CSR | Inputs · transformation (4 Vs, sequencing & scheduling, technology/task design/layout, **monitoring, control and improvement**) · outputs | Performance objectives · new product design · supply chain · outsourcing · technology · inventory · **quality management (control, assurance, improvement)** · resistance to change · global |
+| **Marketing** | Strategic role · interdependence · approaches · types of markets | Customer choice · consumer laws · ethical | Situational analysis · market research · objectives · **identifying target markets** · developing strategies · implementation, monitoring & controlling | **Segmentation, differentiation & positioning** · product · price · promotion · place · people/processes/physical evidence · e-marketing · global |
+| **Finance** | Strategic role · the 5 objectives · interdependence | Internal & external sources · institutions · government · global | Planning & implementing · **monitoring and controlling (the 3 statements)** · ratios · **comparative ratio analysis** · limitations · ethics | Cash flow · working capital · profitability · global |
+| **HR** | Strategic role · interdependence · outsourcing | **Stakeholders** · legal · economic · technological · social · ethics & CSR | Acquisition · development · maintenance · separation | Leadership · job design · recruitment · training & development · performance management · rewards · global · workplace disputes · **+ effectiveness indicators (own 5th heading)** |
+
+### The three placements that catch people
+
+| | Where it feels like it goes | Where the syllabus puts it |
+|---|---|---|
+| **Monitoring, control and improvement** | Strategies | **Operations PROCESSES** — because *"quality management: control, assurance, improvement"* is separately a strategy, the same words appear twice |
+| **Market segmentation and positioning** | The marketing process (next to target markets) | **Marketing STRATEGIES** — only *identifying* target markets is a process step |
+| **Stakeholders** | Role of HRM | **HR INFLUENCES** — it's the first dot point there |
+
+---
 
 ### 5. [[Case_Studies]]
 Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analysis and model answers.
@@ -44,40 +101,31 @@ Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analy
 
 ---
 
-## 🚨 Trial Exam — Wednesday 5 August 2026, 8:45–11:50am
+## 🚨 HSC — Monday 26 October 2026, 9:25am–12:30pm
 
-**100 marks · 30% weighting · 3 hours + 5 min reading · ALL sections compulsory**
-
-| Section | Marks | Format | Suggested time |
-|---|---|---|---|
-| **I** Multiple choice | 20 | 20 × 1 mark | 30 min |
-| **II** Short answer | 40 | Multi-part questions | 70 min |
-| **III** Extended response — **stimulus** | 20 | **Business report** → [[Section_III_Business_Report]] | 40 min |
-| **IV** Extended response — **case study** | 20 | **Essay** → [[Section_IV_Extended_Response]] | 40 min |
-
-**Topics:** Operations · Marketing · Finance · HR
-
-> ❌ **NOT ASSESSED: HR Strategies and HR Effectiveness Indicators.**
-> Revise [[Human_Resources]] **§1–§3 only** — Role, Influences, Processes (the HR cycle). Skip §4, §5 and §6.
-
-> **Section IV is a case study question** — bring [[Apple_Stats_Sheet]] figures. Every stat needs a year.
-
----
-
-## HSC Exam Structure (real HSC, for reference)
+✅ **The whole course is examinable.** The trial (5 Aug) excluded HR Strategies and HR Effectiveness Indicators. **That exclusion has expired** — [[Human_Resources_4_Strategies]] is back in scope and is where most HR marks sit.
 
 | Section | Marks | Time | Format |
 |---|---|---|---|
-| I. Multiple Choice | 20 | ~25 min | 20 questions × 1 mark |
-| II. Short Answer | 40 | ~75 min | 5–6 questions, multiple parts |
-| III. Extended Response | 20 | ~40 min | 2 questions (choose 1 from each) |
-| **Total** | **80** | **~140 min** | |
+| **I** Multiple choice | 20 | ~25 min | 20 × 1 mark |
+| **II** Short answer | 40 | ~75 min | 5–6 questions, multiple parts |
+| **III** Extended response | 20 | ~40 min | Choose 1 → [[Section_III_Business_Report]] |
+| **IV** Extended response | 20 | ~40 min | Choose 1 → [[Section_IV_Extended_Response]] |
+| **Total** | **80** | **~180 min** | |
+
+**Topics:** Operations · Marketing · Finance · HR
+
+> **Bring figures.** Section IV rewards case study data — [[Apple_Stats_Sheet]]. Every stat needs a year.
+
+> **Two habits that have cost you marks across two trials:**
+> 1. **Use the benchmark printed in the stimulus.** If the paper gives an industry average, it beats the generic range.
+> 2. **Seven of your eight MCQ errors were the right dot point, wrong member of the pair.** Drill [[Confusing_Pairs]].
 
 ---
 
 ## Quick Formulas — Finance
 
-> Full worked examples in [[Finance_Management]] §3.5.
+> Full worked examples in [[Finance_3_Processes]] §5.
 
 ```
 LIQUIDITY
@@ -159,10 +207,11 @@ Top-band answers integrate across topics. These are the highest-value links.
 
 | Thread | Where it connects |
 |---|---|
-| **JIT inventory** | [[Operations]] (management strategy) → [[Finance_Management]] (frees working capital, improves liquidity) |
-| **Interdependence** | Every topic — required in almost every extended response |
-| **Globalisation** | [[Operations]] (global sourcing) · [[Marketing]] (standardisation vs customisation) · [[Finance_Management]] (exchange rates, hedging) · [[Human_Resources]] (global HR) |
-| **Technology** | Influences all four functions — automation, e-marketing, HRIS, e-procurement |
-| **Cost leadership** | [[Operations]] (strategic role) → [[Finance_Management]] (cost controls, expense ratio) |
-| **Training** | [[Human_Resources]] (development) → [[Operations]] (quality, productivity) → [[Finance_Management]] (cost vs return) |
-| **Ethics and CSR** | [[Operations]] (triple bottom line) · [[Marketing]] (deceptive conduct) · [[Finance_Management]] (window dressing) · [[Human_Resources]] (fair treatment) |
+| **JIT inventory** | [[Operations_4_Strategies]] (management strategy) → [[Finance_4_Strategies]] (frees working capital, improves liquidity) |
+| **Interdependence** | Every module's ① Role file — required in almost every extended response |
+| **Globalisation** | [[Operations_4_Strategies]] (global sourcing) · [[Marketing_4_Strategies]] (standardisation vs customisation) · [[Finance_4_Strategies]] (exchange rates, hedging) · [[Human_Resources_4_Strategies]] (global HR) |
+| **Technology** | Influences all four functions — automation, e-marketing, HRIS, e-procurement. Each module's ② Influences file |
+| **Cost leadership** | [[Operations_1_Role]] (strategic role) → [[Finance_4_Strategies]] (cost controls, expense ratio) |
+| **Training** | [[Human_Resources_3_Processes]] (development) → [[Operations_4_Strategies]] (quality, productivity) → [[Finance_4_Strategies]] (cost vs return) |
+| **Ethics and CSR** | [[Operations_2_Influences]] (triple bottom line) · [[Marketing_2_Influences]] (deceptive conduct) · [[Finance_3_Processes]] (window dressing) · [[Human_Resources_2_Influences]] (fair treatment) |
+| **Legislation** | [[Operations_2_Influences]] (the ten Acts) · [[Marketing_2_Influences]] (Competition and Consumer Act) · [[Human_Resources_2_Influences]] (Fair Work Act, WHS) |

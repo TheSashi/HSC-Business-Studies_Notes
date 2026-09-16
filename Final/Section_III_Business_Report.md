@@ -24,7 +24,7 @@ aliases:
 **20 marks · about 35 minutes · answered in a separate writing booklet**
 
 > A hypothetical business is described, followed by **three or four bullet points**. Each bullet is a section of your report. There is no choice — everyone answers this question.
-> Worked examples: [[Trial_Practice_Killara_2022]] · Theory: [[Operations]] | [[Marketing]] | [[Finance_Management]] | [[Human_Resources]]
+> Worked examples: [[Trial_Practice_Killara_2022]] · Theory: [[Operations_FULL|Operations]] | [[Marketing_FULL|Marketing]] | [[Finance_FULL|Finance]] | [[Human_Resources_FULL|Human Resources]]
 
 ---
 

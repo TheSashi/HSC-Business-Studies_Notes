@@ -21,7 +21,7 @@ aliases:
 
 > ✅ **TEACHER-MARKED.** Section I **16/20** · Section II **35/40** · Section III **16–17/20**
 > **Total 67–68/80 (84%)**
-> Theory: [[Operations]] | [[Marketing]] | [[Finance_Management]] | [[Human_Resources]] · Drill: [[Confusing_Pairs]]
+> Theory: [[Operations_FULL|Operations]] | [[Marketing_FULL|Marketing]] | [[Finance_FULL|Finance]] | [[Human_Resources_FULL|Human Resources]] · Drill: [[Confusing_Pairs]]
 
 ---
 
@@ -306,4 +306,4 @@ CONCLUSION               restate findings + the recommendations + the objective
 
 ---
 
-> **See also:** [[MOC]] | [[Operations]] | [[Human_Resources]] | [[Finance_Management]] | [[Marketing]]
+> **See also:** [[MOC]] | [[Operations_FULL|Operations]] | [[Human_Resources_FULL|Human Resources]] | [[Finance_FULL|Finance]] | [[Marketing_FULL|Marketing]]

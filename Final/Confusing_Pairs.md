@@ -22,7 +22,7 @@ aliases:
 >
 > **How to use it.** Cover the right column. Say the tell out loud. Anything you hesitate on, star it. Twenty minutes beats re-reading a module.
 >
-> Theory: [[Operations]] | [[Marketing]] | [[Finance_Management]] | [[Human_Resources]] · Marked papers: [[Trial_Practice_Killara_2022]]
+> Theory: [[Operations_FULL|Operations]] | [[Marketing_FULL|Marketing]] | [[Finance_FULL|Finance]] | [[Human_Resources_FULL|Human Resources]] · Marked papers: [[Trial_Practice_Killara_2022]]
 
 ---
 
@@ -264,6 +264,22 @@ EFFICIENCY     Expense Ratio     = (Total Expenses / Sales) x 100            low
 | **Differentiation** | Operations: distinguishing the good or service itself | Marketing: the strategy of making the product distinct from competitors |
 | **Efficiency** | Operations: productivity, output per input | Finance: the **expense ratio** and **accounts receivable turnover** |
 
+### 6.1 ⭐ Same words, two syllabus sections
+
+> **The nastiest version of this: the same words appear twice *within one module*, under different headings.** Checked against the NSW syllabus (2010) §10.1–10.4.
+
+| The words | Section A | Section B | Which one the question wants |
+|---|---|---|---|
+| **Control · improvement** | **Operations PROCESSES** → "monitoring, control and improvement" | **Operations STRATEGIES** → "quality management: control, assurance, improvement" | KPIs, variance, corrective action → **process**. Defects, inspection, ISO 9000, TQM → **strategy** |
+| **Target market · segmentation** | **Marketing PROCESS** → "identifying target markets" (step 4) | **Marketing STRATEGIES** → "market segmentation, product/service differentiation and positioning" | *Which group do we sell to* → **process**. *How do we divide the market and position in it* → **strategy** |
+| **Monitoring · controlling** | **Marketing PROCESS** → step 6, "implementation, monitoring and controlling" | **Finance PROCESSES** → "monitoring and controlling — cash flow statement, income statement, balance sheet" | Marketing: compare actual to planned **sales**, revise the mix. Finance: the **three statements** |
+
+> **Placement traps worth memorising:**
+>
+> - **Stakeholders** are an **HR influence**, not part of the role of HRM.
+> - **Comparative ratio analysis** is a named **Finance process** dot point — the comparison *is* the syllabus content, not just good technique.
+> - **Motivation theories** (Maslow, Herzberg, McGregor) and **organisational structures** are **not in the HSC syllabus** at all.
+
 ---
 
 ## 7. Self-Test
@@ -351,4 +367,4 @@ EFFICIENCY     Expense Ratio     = (Total Expenses / Sales) x 100            low
 
 ---
 
-> **See also:** [[MOC]] | [[Trial_Practice_Killara_2022]] | [[Operations]] | [[Marketing]] | [[Finance_Management]] | [[Human_Resources]]
+> **See also:** [[MOC]] | [[Trial_Practice_Killara_2022]] | [[Operations_FULL|Operations]] | [[Marketing_FULL|Marketing]] | [[Finance_FULL|Finance]] | [[Human_Resources_FULL|Human Resources]]

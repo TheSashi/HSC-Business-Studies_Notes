@@ -26,7 +26,7 @@ aliases:
 
 > No stimulus. **You bring the case study.** The two questions cover different topics, so pick the one where your case study evidence is strongest.
 > Scaffolds below follow your teacher's *Section IV Essay Structures* handout.
-> Case study data: [[Case_Studies]] · Theory: [[Operations]] | [[Marketing]] | [[Finance_Management]] | [[Human_Resources]]
+> Case study data: [[Case_Studies]] · Theory: [[Operations_FULL|Operations]] | [[Marketing_FULL|Marketing]] | [[Finance_FULL|Finance]] | [[Human_Resources_FULL|Human Resources]]
 
 ---
 

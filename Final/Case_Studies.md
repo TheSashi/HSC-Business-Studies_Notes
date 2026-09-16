@@ -180,6 +180,6 @@ The HSC exam requires you to **apply theory to real businesses**. Every extended
 
 ---
 
-> **See also:** [[Finance_Management]] | [[Marketing]] | [[Operations]] | [[Human_Resources]]
+> **See also:** [[Finance_FULL|Finance]] | [[Marketing_FULL|Marketing]] | [[Operations_FULL|Operations]] | [[Human_Resources_FULL|Human Resources]] | [[MOC]]
 
 *Notes prepared for HSC Business Studies — Applied Case Studies.*
