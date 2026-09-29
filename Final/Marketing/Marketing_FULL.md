@@ -324,12 +324,12 @@ Market Share (%) = (Company Sales / Total Industry Sales) × 100
 
 #### Segmentation Bases
 
-| Base | Criteria | Apple Example |
-|---|---|---|
-| **Geographic** | Location, region, climate | Strong in Americas, Europe, Greater China |
-| **Demographic** | Age, income, occupation, education | Young to middle-aged, middle to high income, professionals/students |
-| **Psychographic** | Lifestyle, values, attitudes, personality, socioeconomic groups | Innovation-seekers, quality-focused, early adopters, brand-loyal |
-| **Behavioural** | Buying patterns, brand loyalty, usage, benefits sought | Apple ecosystem loyalty, repeat purchasers |
+| Base              | Criteria                                                        | Apple Example                                                       |
+| ----------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Geographic**    | Location, region, climate                                       | Strong in Americas, Europe, Greater China                           |
+| **Demographic**   | Age, income, occupation, education                              | Young to middle-aged, middle to high income, professionals/students |
+| **Psychographic** | Lifestyle, values, attitudes, personality, socioeconomic groups | Innovation-seekers, quality-focused, early adopters, brand-loyal    |
+| **Behavioural**   | Buying patterns, brand loyalty, usage, benefits sought          | Apple ecosystem loyalty, repeat purchasers                          |
 
 #### Apple's Product-Segment Targets
 
