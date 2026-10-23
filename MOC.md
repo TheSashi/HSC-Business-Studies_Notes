@@ -56,6 +56,7 @@ updated: 2026-05-18
 - [[Marketing_Assess_Influences_on_Marketing_Process]] — Assess influences on marketing
 - [[Marketing_Practise_Extended_Response]] — Practice marketing extended responses
 - [[Operations_Past_HSC_Extended_Responses]] — Past HSC operations questions
+- [[HSC_2022_2023_Reports_and_Q27_Essays]]: 2022 and 2023 HSC reports and Apple based Q27 operations essays
 
 ---
 
