@@ -3,7 +3,7 @@ tags: [business-studies, hsc, year-12, moc, index]
 subject: Business Studies
 syllabus_ref: HSC Business Studies — All Topics
 created: 2026-05-17
-updated: 2026-05-18
+updated: 2026-10-23
 ---
 
 # Business Studies — Map of Content
@@ -56,7 +56,7 @@ updated: 2026-05-18
 - [[Marketing_Assess_Influences_on_Marketing_Process]] — Assess influences on marketing
 - [[Marketing_Practise_Extended_Response]] — Practice marketing extended responses
 - [[Operations_Past_HSC_Extended_Responses]] — Past HSC operations questions
-- [[HSC_2022_2023_Reports_and_Q27_Essays]]: 2022 and 2023 HSC reports and Apple based Q27 operations essays
+- [[Crichton_Office_Supplies_Report_and_Apple_Marketing_Essay]]: Q25 report and Q27 marketing essay from the supplied question images
 
 ---
 

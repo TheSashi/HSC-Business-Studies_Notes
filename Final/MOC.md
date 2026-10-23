@@ -99,8 +99,8 @@ Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analy
 ### 9. [[Trial_Practice_Killara_2022]]
 ✅ **Teacher-marked** Killara 2022 trial — **16/20 MCQ · 35/40 short answer · 16–17/20 report · 84% overall**. Answer key with explanations for the four MCQs missed, the teacher's margin notes on every part, corrected model answers, the **Jumbo Movies business report** (751 words), and the Section III report template.
 
-### 10. [[HSC_2022_2023_Reports_and_Q27_Essays]]
-2022 and 2023 HSC Q25 reports and Q27 essays. Apple is integrated throughout both Operations essays.
+### 10. Question Image Answers
+[[Crichton_Office_Supplies_Report_and_Apple_Marketing_Essay]]: Q25 Crichton Office Supplies report and Q27 Apple marketing essay from the supplied images.
 
 ---
 
