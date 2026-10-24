@@ -84,8 +84,8 @@ syllabus_ref: HSC Business Studies — All Topics
 ### 5. [[Case_Studies]]
 Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analysis and model answers.
 
-### 5a. [[Apple_Stats_Sheet]]
-🍎 **Every Apple figure you can quote, with its year.** Two clean datasets (FY2020–2023 from the class PowerPoint, FY2024–2025 from your assessment), full income statement, cash flow statement and ratio tables, plus operations, marketing and influences. Closes with **the twelve to memorise**.
+### 5a. [[Case_Study_Stats_Sheet]]
+📊 **One compact table for Apple, McDonald’s and Xiaomi.** FY2025 finance, marketing, operations and HR evidence, with sources and dates.
 
 ### 6. [[Section_III_Business_Report]]
 📋 **How to write the business report.** Marking criteria, the heading trick, executive summary formula, recommendation shape, and both worked examples — the teacher-marked Jumbo Movies report and your full-marks Apple finance report.
@@ -118,7 +118,7 @@ Apple Inc., McDonald's Corporation, Perfect Fresh Pty Ltd. Financial data, analy
 
 **Topics:** Operations · Marketing · Finance · HR
 
-> **Bring figures.** Section IV rewards case study data — [[Apple_Stats_Sheet]]. Every stat needs a year.
+> **Bring figures.** Section IV rewards case study data — [[Case_Study_Stats_Sheet]]. Every stat needs a year.
 
 > **Two habits that have cost you marks across two trials:**
 > 1. **Use the benchmark printed in the stimulus.** If the paper gives an industry average, it beats the generic range.
