@@ -141,6 +141,7 @@ Monitoring and evaluating employee performance.
 ### 4. Dismissal and Redundancy
 
 **Dismissal:**
+
 | Type | Description |
 |------|-------------|
 | **Termination** | Ending employment for poor performance or misconduct (following due process) |
@@ -148,6 +149,7 @@ Monitoring and evaluating employee performance.
 | **Unfair dismissal** | Termination that is harsh, unjust, or unreasonable — employee can claim through Fair Work Commission |
 
 **Redundancy:**
+
 | Type | Description |
 |------|-------------|
 | **Voluntary redundancy** | Employee chooses to leave with a redundancy package |

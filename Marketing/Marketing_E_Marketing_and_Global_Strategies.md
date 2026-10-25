@@ -28,6 +28,7 @@ created: 2026-06-06
 
 ### 1.2 Social Media Advertising — Advantages & Disadvantages
 ### 1.2 Social Media Advertising — Advantages & Disadvantages
+
 | Advantages | Disadvantages |
 |-----------|--------------|
 | Cost efficient — cheaper than traditional media | Anyone can comment — even without trying the product |
@@ -95,6 +96,7 @@ Many businesses operate in countries beyond their domestic operations. These are
 - Local purchasing power
 
 **iPhone X prices around the world (64GB $US):**
+
 | Country | Price |
 |---------|-------|
 | Russia | $1,390 |

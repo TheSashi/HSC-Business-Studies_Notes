@@ -14,6 +14,7 @@ created: 2026-05-29
 ## McDonald's Ratio Analysis (2022 vs 2023)
 
 ### Liquidity — Current Ratio
+
 | Year | Current Ratio |
 |------|--------------|
 | 2022 | 1.43:1 |
@@ -22,6 +23,7 @@ created: 2026-05-29
 **Comparison:** The current ratio has worsened from 1.43:1 in 2022 to 1.16:1 in 2023. The current ratio measures liquidity — the ability to pay current liabilities with current assets. **Similarity:** Inventory value was around $52 million both years. **Difference:** Huge increase in short-term borrowing of $2 million, which explains why the ratio worsened.
 
 ### Solvency — Gearing (Debt to Equity)
+
 | Year | Gearing |
 |------|---------|
 | 2022 | (598)% |
@@ -30,6 +32,7 @@ created: 2026-05-29
 **Note:** Ratio is negative due to McDonald's share buy-back, but they still rely more on debt than equity.
 
 ### Profitability — Net Profit Ratio
+
 | Year | Net Profit Ratio |
 |------|-----------------|
 | 2022 | 27% |
@@ -38,6 +41,7 @@ created: 2026-05-29
 **Comparison (with Yum Brands benchmark: 2022=19%, 2023=23%):** McDonald's NP ratio improved from 27% to 33%. **Similarity:** Total operating costs were steady ($13,811.6M → $13,847M). **Difference:** Revenue increased from $23,182M to $25,493M, explaining the improvement.
 
 ### Efficiency — Accounts Receivable Turnover
+
 | Year | Days |
 |------|------|
 | 2022 | 31.74 days |

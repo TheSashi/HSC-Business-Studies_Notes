@@ -83,6 +83,7 @@ Financial risks in global markets are greater than domestic but necessary for bu
 | **Global Economic Outlook** | Projected changes to economic growth worldwide |
 
 ### Current Interest Rates (approximate)
+
 | Country | Rate |
 |---------|------|
 | Australia | 4.35% |
