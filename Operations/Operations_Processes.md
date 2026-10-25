@@ -17,6 +17,7 @@ created: 2026-05-18
 Inputs are split into **Transformed** and **Transforming** resources.
 
 ### Transformed Resources (inputs that are changed)
+
 | Type | Description |
 |------|-------------|
 | **Materials** | Raw materials converted into finished products |
@@ -24,6 +25,7 @@ Inputs are split into **Transformed** and **Transforming** resources.
 | **Customers** | People who are transformed (e.g., haircut, education) |
 
 ### Transforming Resources (inputs that do the changing)
+
 | Type | Description |
 |------|-------------|
 | **Human Resources** | Labour, skills, knowledge of employees |

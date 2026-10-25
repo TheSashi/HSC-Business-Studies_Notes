@@ -67,6 +67,7 @@ source: Classroom PDF - Past HSC Operations Extended Response Questions
 > Make a judgement based on criteria — here the criteria is **responding to external influences**
 
 ### Strategy-Influence Links
+
 | Strategy | Link to Influence |
 |---|---|
 | SCM (Logistics/Global Sourcing/E-Commerce) | Technology, Quality Expectations, Cost-based Competition |
@@ -138,6 +139,7 @@ source: Classroom PDF - Past HSC Operations Extended Response Questions
 > Show the relationship between and draw out implications
 
 ### Strategy-Performance Objective Links
+
 | Strategy | Performance Objectives |
 |---|---|
 | SCM (Logistics/Global Sourcing/E-Commerce) | Cost, Dependability, Speed, Flexibility |

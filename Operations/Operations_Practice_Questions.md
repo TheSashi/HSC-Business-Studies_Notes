@@ -72,6 +72,7 @@ created: 2026-05-18
 ## 4. Apple Case Study — Operations Analysis
 
 ### Operations Strategy
+
 | Strategy | Apple Implementation |
 |----------|---------------------|
 | **Outsourcing** | Foxconn manufactures iPhones; Apple focuses on design and marketing |
