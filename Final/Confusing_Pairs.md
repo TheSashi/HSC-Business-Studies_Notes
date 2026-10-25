@@ -54,7 +54,7 @@ aliases:
 | Transformed / Transforming resources | **Transformed** = what gets **changed** (materials, information, customers). **Transforming** = what **does** the changing (human resources, facilities) |
 | Sequencing / Scheduling | **Order** vs **duration** |
 | Gantt chart / Critical path analysis | **Gantt** shows what and how long, including **concurrent** tasks. **CPA** shows what must finish before something else can start, giving the **critical path** and **float** |
-| Critical path / Longest task list | It's the longest path by **time**, not by number of tasks |
+| Critical path / Longest task list / Shortest project time | The critical path is the route with the greatest **total duration**, not the most tasks. Its duration is the **shortest possible time** to finish the whole project, because every task must be completed |
 | Float / Critical activity | Float is spare time. Critical activities have **zero** float |
 | Lead time / Cycle time | **Lead** = order to receipt. **Cycle** = time to produce **one unit** |
 | Bottleneck / Defect | **Bottleneck** = lowest-capacity point limiting total output. A defect is a quality failure. **Not the same thing** |
